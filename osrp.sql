@@ -1852,6 +1852,24 @@ CREATE TABLE `users` (
   `chatstyle` int(11) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 ROW_FORMAT=COMPACT;
 
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `impoundlots`
+--
+
+CREATE TABLE `impoundlots` (
+  `id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+ALTER TABLE `impoundlots`
+  ADD KEY `id` (`id`);
+
+ALTER TABLE `impoundlots`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+COMMIT;
+
 -- --------------------------------------------------------
 
 --
