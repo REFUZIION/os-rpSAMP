@@ -1,0 +1,3224 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:43:50] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:44:20] filterscripts = ""  (string)
+[13:44:20] password = ""  (string)
+[13:44:20] 
+[13:44:20] Server Plugins
+[13:44:20] --------------
+[13:44:20]  Loading plugin: crashdetect
+[13:44:20]   CrashDetect v4.18.1 is OK.
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: pawncmd
+[13:44:20] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: sscanf
+[13:44:20] 
+
+[13:44:20]  ===============================
+
+[13:44:20]       sscanf plugin loaded.     
+
+[13:44:20]          Version:  2.8.2        
+
+[13:44:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:44:20]  ===============================
+
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: streamer
+[13:44:20] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: mysql
+[13:44:20]   Failed.
+[13:44:20]  Loading plugin: Whirlpool
+[13:44:20]  
+[13:44:20]  ==================
+[13:44:20]  
+[13:44:20]   Whirlpool loaded
+[13:44:20]  
+[13:44:20]  ==================
+[13:44:20]  
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: SKY
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: regex
+[13:44:20] 
+
+[13:44:20] ______________________________________
+
+[13:44:20]  Regular Expression Plugin v0.2.1 loaded
+[13:44:20] ______________________________________
+
+[13:44:20]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:44:20] ______________________________________
+
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: YSF
+[13:44:20] ARRAY_ConsoleCommands: 4e43d8
+[13:44:20] 
+
+[13:44:20]  ===============================
+
+[13:44:20]         YSF - kurta999's version R19 loaded
+
+[13:44:20]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[13:44:20]     Server version: 0.3.7 R2-1
+
+[13:44:20]     Operating System: Windows
+
+[13:44:20]     Built on: Mar 11 2017 at 10:32:34
+
+[13:44:20]  ===============================
+
+[13:44:20]   Loaded.
+[13:44:20]  Loading plugin: nativechecker
+[13:44:20]   Loaded.
+[13:44:20]  Loaded 9 plugins.
+
+[13:44:21] 
+[13:44:21] Filterscripts
+[13:44:21] ---------------
+[13:44:21]   Loaded 0 filterscripts.
+
+[13:44:21]    Error: Function not registered: 'mysql_format'
+[13:44:21]    Error: Function not registered: 'mysql_tquery'
+[13:44:21]    Error: Function not registered: 'cache_get_data'
+[13:44:21]    Error: Function not registered: 'cache_get_field_content_int'
+[13:44:21]    Error: Function not registered: 'cache_get_field_content_float'
+[13:44:21]    Error: Function not registered: 'cache_insert_id'
+[13:44:21]    Error: Function not registered: 'cache_get_row_count'
+[13:44:21]    Error: Function not registered: 'mysql_escape_string'
+[13:44:21]    Error: Function not registered: 'cache_get_field_content'
+[13:44:21]    Error: Function not registered: 'cache_affected_rows'
+[13:44:21]    Error: Function not registered: 'mysql_unprocessed_queries'
+[13:44:21]    Error: Function not registered: 'cache_get_row_int'
+[13:44:21]    Error: Function not registered: 'cache_get_row'
+[13:44:21]    Error: Function not registered: 'mysql_connect'
+[13:44:21]    Error: Function not registered: 'mysql_errno'
+[13:44:21]    Error: Function not registered: 'mysql_close'
+[13:44:21] [debug] Run time error 19: "File or function is not found"
+[13:44:21] [debug]  mysql_format
+[13:44:21] [debug]  mysql_tquery
+[13:44:21] [debug]  cache_get_data
+[13:44:21] [debug]  cache_get_field_content_int
+[13:44:21] [debug]  cache_get_field_content_float
+[13:44:21] [debug]  cache_insert_id
+[13:44:21] [debug]  cache_get_row_count
+[13:44:21] [debug]  mysql_escape_string
+[13:44:21] [debug]  cache_get_field_content
+[13:44:21] [debug]  cache_affected_rows
+[13:44:21] [debug]  mysql_unprocessed_queries
+[13:44:21] [debug]  cache_get_row_int
+[13:44:21] [debug]  cache_get_row
+[13:44:21] [debug]  mysql_connect
+[13:44:21] [debug]  mysql_errno
+[13:44:21] [debug]  mysql_close
+[13:44:21] [debug] Run time error 19: "File or function is not found"
+[13:44:21] [debug]  mysql_format
+[13:44:21] [debug]  mysql_tquery
+[13:44:21] [debug]  cache_get_data
+[13:44:21] [debug]  cache_get_field_content_int
+[13:44:21] [debug]  cache_get_field_content_float
+[13:44:21] [debug]  cache_insert_id
+[13:44:21] [debug]  cache_get_row_count
+[13:44:21] [debug]  mysql_escape_string
+[13:44:21] [debug]  cache_get_field_content
+[13:44:21] [debug]  cache_affected_rows
+[13:44:21] [debug]  mysql_unprocessed_queries
+[13:44:21] [debug]  cache_get_row_int
+[13:44:21] [debug]  cache_get_row
+[13:44:21] [debug]  mysql_connect
+[13:44:21] [debug]  mysql_errno
+[13:44:21] [debug]  mysql_close
+[13:44:21] Script[gamemodes/os-rp.amx]: Run time error 19: "File or function is not found"
+[13:44:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:44:38] filterscripts = ""  (string)
+[13:44:38] password = ""  (string)
+[13:44:38] 
+[13:44:38] Server Plugins
+[13:44:38] --------------
+[13:44:38]  Loading plugin: crashdetect
+[13:44:38]   CrashDetect v4.18.1 is OK.
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: pawncmd
+[13:44:38] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: sscanf
+[13:44:38] 
+
+[13:44:38]  ===============================
+
+[13:44:38]       sscanf plugin loaded.     
+
+[13:44:38]          Version:  2.8.2        
+
+[13:44:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:44:38]  ===============================
+
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: streamer
+[13:44:38] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: mysql
+[13:44:38]  >> plugin.mysql: R39-5 successfully loaded.
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: Whirlpool
+[13:44:38]  
+[13:44:38]  ==================
+[13:44:38]  
+[13:44:38]   Whirlpool loaded
+[13:44:38]  
+[13:44:38]  ==================
+[13:44:38]  
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: SKY
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: regex
+[13:44:38] 
+
+[13:44:38] ______________________________________
+
+[13:44:38]  Regular Expression Plugin v0.2.1 loaded
+[13:44:38] ______________________________________
+
+[13:44:38]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:44:38] ______________________________________
+
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: YSF
+[13:44:38] ARRAY_ConsoleCommands: 4e43d8
+[13:44:38] 
+
+[13:44:38]  ===============================
+
+[13:44:38]         YSF - kurta999's version R19 loaded
+
+[13:44:38]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[13:44:38]     Server version: 0.3.7 R2-1
+
+[13:44:38]     Operating System: Windows
+
+[13:44:38]     Built on: Mar 11 2017 at 10:32:34
+
+[13:44:38]  ===============================
+
+[13:44:38]   Loaded.
+[13:44:38]  Loading plugin: nativechecker
+[13:44:38]   Loaded.
+[13:44:38]  Loaded 10 plugins.
+
+[13:44:38] 
+[13:44:38] Filterscripts
+[13:44:38] ---------------
+[13:44:38]   Loaded 0 filterscripts.
+
+[13:44:38]  
+[13:44:38]  
+[13:44:38]  
+[13:44:38]  ======================================= 
+[13:44:38]  |                                     | 
+[13:44:38]  |        YSI version 4.00.0001        | 
+[13:44:38]  |        By Alex "Y_Less" Cole        | 
+[13:44:38]  |                                     | 
+[13:44:38]  ======================================= 
+[13:44:38]  
+[13:44:45] Old School Roleplay is loading...
+[13:44:45] Saving server information on mysql...
+[13:44:45] Get shit on by Anti-DeAMX
+[13:44:45] LSPD Map has been loaded successfully
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOO??????????????????OOOO????SSSSSS				   
+[13:44:45] OOOO??????????????????OOOO????SSSSSS				   
+[13:44:45] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[13:44:45] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[13:44:45] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:44:45] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:44:45] ______________________________________________
+[13:44:45] | Old School Roleplay by Pedro		        |
+[13:44:45] | Gamemode loaded successfully.              |
+[13:44:45] ______________________________________________
+[13:44:45] 169 objects loaded.
+[13:44:45] Number of vehicle models: 16
+[13:44:45] [Script] 0 houses loaded.
+[13:44:45] (SQL) 0 furniture loaded.
+[13:44:45] [Script] 0 garages loaded.
+[13:44:45] [Script] 0 businesses loaded.
+[13:44:45] [Script] 0 entrances loaded.
+[13:44:45] [Script] 0 factions loaded.
+[13:44:45] [Script] 0 lands loaded.
+[13:44:45] [Script] 0 gangs loaded.
+[13:44:45] [Script] 0 points loaded.
+[13:44:45] [Script] 0 turfs loaded.
+[13:44:45] [Script] 0 locations loaded
+[13:44:45] [Script] 0 crews loaded
+[13:44:45] [Script] 0 atms loaded
+[13:44:45] [2019-04-25 13:44]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[13:44:45] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[13:44:45] [Script] 0 vips removed.
+[13:45:15] [connection] 192.168.2.155:61377 requests connection cookie.
+[13:45:16] [connection] incoming connection: 192.168.2.155:61377 id: 0
+[13:45:17] [connection] incoming connection: 192.168.2.155:61378 id: 0
+[13:45:17] [join] Ronald_Stone has joined the server (0:192.168.2.155)
+[13:45:18] The request failed! The response code was: 6
+[13:45:37] Spawned player on spawn 2
+[13:45:37] OnPlayerSpawn: Ronald Stone[0] has just spawned on Old School Roleplay for the first time!
+[13:45:42] [chat] [Ronald_Stone]: lit
+[13:45:45] [chat] [Ronald_Stone]: kys
+[13:45:46] [part] Ronald_Stone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:47:57] filterscripts = ""  (string)
+[13:47:57] password = ""  (string)
+[13:47:57] 
+[13:47:57] Server Plugins
+[13:47:57] --------------
+[13:47:57]  Loading plugin: crashdetect
+[13:47:57]   CrashDetect v4.18.1 is OK.
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: pawncmd
+[13:47:57] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: sscanf
+[13:47:57] 
+
+[13:47:57]  ===============================
+
+[13:47:57]       sscanf plugin loaded.     
+
+[13:47:57]          Version:  2.8.2        
+
+[13:47:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:47:57]  ===============================
+
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: streamer
+[13:47:57] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: mysql
+[13:47:57]  >> plugin.mysql: R39-5 successfully loaded.
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: Whirlpool
+[13:47:57]  
+[13:47:57]  ==================
+[13:47:57]  
+[13:47:57]   Whirlpool loaded
+[13:47:57]  
+[13:47:57]  ==================
+[13:47:57]  
+[13:47:57]   Loaded.
+[13:47:57]  Loading plugin: SKY
+[13:47:58]   Loaded.
+[13:47:58]  Loading plugin: regex
+[13:47:58] 
+
+[13:47:58] ______________________________________
+
+[13:47:58]  Regular Expression Plugin v0.2.1 loaded
+[13:47:58] ______________________________________
+
+[13:47:58]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:47:58] ______________________________________
+
+[13:47:58]   Loaded.
+[13:47:58]  Loading plugin: YSF
+[13:47:58] ARRAY_ConsoleCommands: 4e43d8
+[13:47:58] 
+
+[13:47:58]  ===============================
+
+[13:47:58]         YSF - kurta999's version R19 loaded
+
+[13:47:58]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[13:47:58]     Server version: 0.3.7 R2-1
+
+[13:47:58]     Operating System: Windows
+
+[13:47:58]     Built on: Mar 11 2017 at 10:32:34
+
+[13:47:58]  ===============================
+
+[13:47:58]   Loaded.
+[13:47:58]  Loading plugin: nativechecker
+[13:47:58]   Loaded.
+[13:47:58]  Loaded 10 plugins.
+
+[13:47:58] 
+[13:47:58] Filterscripts
+[13:47:58] ---------------
+[13:47:58]   Loaded 0 filterscripts.
+
+[13:47:58]  
+[13:47:58]  
+[13:47:58]  
+[13:47:58]  ======================================= 
+[13:47:58]  |                                     | 
+[13:47:58]  |        YSI version 4.00.0001        | 
+[13:47:58]  |        By Alex "Y_Less" Cole        | 
+[13:47:58]  |                                     | 
+[13:47:58]  ======================================= 
+[13:47:58]  
+[13:48:04] Old School Roleplay is loading...
+[13:48:04] Saving server information on mysql...
+[13:48:04] Get shit on by Anti-DeAMX
+[13:48:04] LSPD Map has been loaded successfully
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOO??????????????????OOOO????SSSSSS				   
+[13:48:04] OOOO??????????????????OOOO????SSSSSS				   
+[13:48:04] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[13:48:04] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[13:48:04] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:48:04] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:48:04] ______________________________________________
+[13:48:04] | Old School Roleplay by Pedro		        |
+[13:48:04] | Gamemode loaded successfully.              |
+[13:48:04] ______________________________________________
+[13:48:04] 169 objects loaded.
+[13:48:04] Number of vehicle models: 16
+[13:48:04] [Script] 0 houses loaded.
+[13:48:04] (SQL) 0 furniture loaded.
+[13:48:04] [Script] 0 garages loaded.
+[13:48:04] [Script] 0 businesses loaded.
+[13:48:04] [Script] 0 entrances loaded.
+[13:48:04] [Script] 0 factions loaded.
+[13:48:04] [Script] 0 lands loaded.
+[13:48:04] [Script] 0 gangs loaded.
+[13:48:04] [Script] 0 points loaded.
+[13:48:04] [Script] 0 turfs loaded.
+[13:48:04] [Script] 0 locations loaded
+[13:48:04] [Script] 0 crews loaded
+[13:48:04] [Script] 0 atms loaded
+[13:48:04] [2019-04-25 13:48]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[13:48:04] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[13:48:04] [Script] 0 vips removed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:53:56] filterscripts = ""  (string)
+[13:53:56] password = ""  (string)
+[13:53:56] 
+[13:53:56] Server Plugins
+[13:53:56] --------------
+[13:53:56]  Loading plugin: crashdetect
+[13:53:56]   CrashDetect v4.18.1 is OK.
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: pawncmd
+[13:53:56] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: sscanf
+[13:53:56] 
+
+[13:53:56]  ===============================
+
+[13:53:56]       sscanf plugin loaded.     
+
+[13:53:56]          Version:  2.8.2        
+
+[13:53:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:53:56]  ===============================
+
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: streamer
+[13:53:56] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: mysql
+[13:53:56]  >> plugin.mysql: R39-5 successfully loaded.
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: Whirlpool
+[13:53:56]  
+[13:53:56]  ==================
+[13:53:56]  
+[13:53:56]   Whirlpool loaded
+[13:53:56]  
+[13:53:56]  ==================
+[13:53:56]  
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: SKY
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: regex
+[13:53:56] 
+
+[13:53:56] ______________________________________
+
+[13:53:56]  Regular Expression Plugin v0.2.1 loaded
+[13:53:56] ______________________________________
+
+[13:53:56]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:53:56] ______________________________________
+
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: YSF
+[13:53:56] ARRAY_ConsoleCommands: 4e43d8
+[13:53:56] 
+
+[13:53:56]  ===============================
+
+[13:53:56]         YSF - kurta999's version R19 loaded
+
+[13:53:56]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[13:53:56]     Server version: 0.3.7 R2-1
+
+[13:53:56]     Operating System: Windows
+
+[13:53:56]     Built on: Mar 11 2017 at 10:32:34
+
+[13:53:56]  ===============================
+
+[13:53:56]   Loaded.
+[13:53:56]  Loading plugin: nativechecker
+[13:53:56]   Loaded.
+[13:53:56]  Loaded 10 plugins.
+
+[13:53:57] 
+[13:53:57] Filterscripts
+[13:53:57] ---------------
+[13:53:57]   Loaded 0 filterscripts.
+
+[13:53:57]  
+[13:53:57]  
+[13:53:57]  
+[13:53:57]  ======================================= 
+[13:53:57]  |                                     | 
+[13:53:57]  |        YSI version 4.00.0001        | 
+[13:53:57]  |        By Alex "Y_Less" Cole        | 
+[13:53:57]  |                                     | 
+[13:53:57]  ======================================= 
+[13:53:57]  
+[13:54:03] Old School Roleplay is loading...
+[13:54:03] Saving server information on mysql...
+[13:54:03] Get shit on by Anti-DeAMX
+[13:54:03] LSPD Map has been loaded successfully
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOO??????????????????OOOO????SSSSSS				   
+[13:54:03] OOOO??????????????????OOOO????SSSSSS				   
+[13:54:03] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[13:54:03] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[13:54:03] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:54:03] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:54:03] ______________________________________________
+[13:54:03] | Old School Roleplay by Pedro		        |
+[13:54:03] | Gamemode loaded successfully.              |
+[13:54:03] ______________________________________________
+[13:54:03] 169 objects loaded.
+[13:54:03] Number of vehicle models: 16
+[13:54:03] [Script] 0 houses loaded.
+[13:54:03] (SQL) 0 furniture loaded.
+[13:54:03] [Script] 0 garages loaded.
+[13:54:03] [Script] 0 businesses loaded.
+[13:54:03] [Script] 0 entrances loaded.
+[13:54:03] [Script] 0 factions loaded.
+[13:54:03] [Script] 0 lands loaded.
+[13:54:03] [Script] 0 gangs loaded.
+[13:54:03] [Script] 0 points loaded.
+[13:54:03] [Script] 0 turfs loaded.
+[13:54:03] [Script] 0 locations loaded
+[13:54:03] [Script] 0 crews loaded
+[13:54:03] [Script] 0 atms loaded
+[13:54:03] [2019-04-25 13:54]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[13:54:03] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[13:54:03] [Script] 0 vips removed.
+[13:54:34] [connection] 192.168.2.155:60084 requests connection cookie.
+[13:54:35] [connection] incoming connection: 192.168.2.155:60084 id: 0
+[13:54:35] [connection] incoming connection: 192.168.2.155:60085 id: 0
+[13:54:36] [join] Ronald_Stone has joined the server (0:192.168.2.155)
+[13:54:36] The request failed! The response code was: 6
+[13:54:40] [debug] Run time error 6: "Invalid instruction"
+[13:54:40] [debug]  Unknown opcode 0x0 at address 0x00000004
+[13:54:40] [debug] AMX backtrace:
+[13:54:40] [debug] #0 00000004 in public ShowMainMenuCamera () at <unknown file>:0
+[13:54:54] [part] Ronald_Stone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:58:04] filterscripts = ""  (string)
+[13:58:04] password = ""  (string)
+[13:58:04] 
+[13:58:04] Server Plugins
+[13:58:04] --------------
+[13:58:04]  Loading plugin: crashdetect
+[13:58:04]   CrashDetect v4.18.1 is OK.
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: pawncmd
+[13:58:04] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: sscanf
+[13:58:04] 
+
+[13:58:04]  ===============================
+
+[13:58:04]       sscanf plugin loaded.     
+
+[13:58:04]          Version:  2.8.2        
+
+[13:58:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:58:04]  ===============================
+
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: streamer
+[13:58:04] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: mysql
+[13:58:04]  >> plugin.mysql: R39-5 successfully loaded.
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: Whirlpool
+[13:58:04]  
+[13:58:04]  ==================
+[13:58:04]  
+[13:58:04]   Whirlpool loaded
+[13:58:04]  
+[13:58:04]  ==================
+[13:58:04]  
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: SKY
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: regex
+[13:58:04] 
+
+[13:58:04] ______________________________________
+
+[13:58:04]  Regular Expression Plugin v0.2.1 loaded
+[13:58:04] ______________________________________
+
+[13:58:04]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:58:04] ______________________________________
+
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: YSF
+[13:58:04] ARRAY_ConsoleCommands: 4e43d8
+[13:58:04] 
+
+[13:58:04]  ===============================
+
+[13:58:04]         YSF - kurta999's version R19 loaded
+
+[13:58:04]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[13:58:04]     Server version: 0.3.7 R2-1
+
+[13:58:04]     Operating System: Windows
+
+[13:58:04]     Built on: Mar 11 2017 at 10:32:34
+
+[13:58:04]  ===============================
+
+[13:58:04]   Loaded.
+[13:58:04]  Loading plugin: nativechecker
+[13:58:04]   Loaded.
+[13:58:04]  Loaded 10 plugins.
+
+[13:58:04] 
+[13:58:04] Filterscripts
+[13:58:04] ---------------
+[13:58:04]   Loaded 0 filterscripts.
+
+[13:58:05]  
+[13:58:05]  
+[13:58:05]  
+[13:58:05]  ======================================= 
+[13:58:05]  |                                     | 
+[13:58:05]  |        YSI version 4.00.0001        | 
+[13:58:05]  |        By Alex "Y_Less" Cole        | 
+[13:58:05]  |                                     | 
+[13:58:05]  ======================================= 
+[13:58:05]  
+[13:58:10] Old School Roleplay is loading...
+[13:58:10] Saving server information on mysql...
+[13:58:10] Get shit on by Anti-DeAMX
+[13:58:11] LSPD Map has been loaded successfully
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOO??????????????????OOOO????SSSSSS				   
+[13:58:11] OOOO??????????????????OOOO????SSSSSS				   
+[13:58:11] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[13:58:11] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[13:58:11] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:58:11] OOOO??????????????????OOOO????????????????????SSSSSS
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[13:58:11] ______________________________________________
+[13:58:11] | Old School Roleplay by Pedro		        |
+[13:58:11] | Gamemode loaded successfully.              |
+[13:58:11] ______________________________________________
+[13:58:11] 169 objects loaded.
+[13:58:11] Number of vehicle models: 16
+[13:58:11] [Script] 0 houses loaded.
+[13:58:11] (SQL) 0 furniture loaded.
+[13:58:11] [Script] 0 garages loaded.
+[13:58:11] [Script] 0 businesses loaded.
+[13:58:11] [Script] 0 entrances loaded.
+[13:58:11] [Script] 0 factions loaded.
+[13:58:11] [Script] 0 lands loaded.
+[13:58:11] [Script] 0 gangs loaded.
+[13:58:11] [Script] 0 points loaded.
+[13:58:11] [Script] 0 turfs loaded.
+[13:58:11] [Script] 0 locations loaded
+[13:58:11] [Script] 0 crews loaded
+[13:58:11] [Script] 0 atms loaded
+[13:58:11] [2019-04-25 13:58]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[13:58:11] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[13:58:11] [Script] 0 vips removed.
+[14:00:11] [connection] 192.168.2.155:63664 requests connection cookie.
+[14:00:12] [connection] incoming connection: 192.168.2.155:63664 id: 0
+[14:00:27] [connection] incoming connection: 192.168.2.155:63665 id: 0
+[14:00:28] [connection] incoming connection: 192.168.2.155:63666 id: 0
+[14:00:28] [join] Ronald_Stone has joined the server (0:192.168.2.155)
+[14:00:28] The request failed! The response code was: 6
+[14:00:33] [debug] Run time error 6: "Invalid instruction"
+[14:00:33] [debug]  Unknown opcode 0x0 at address 0x00000004
+[14:00:33] [debug] AMX backtrace:
+[14:00:33] [debug] #0 00000004 in public ShowMainMenuCamera () at <unknown file>:0
+[14:00:38] [part] Ronald_Stone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:01:27] filterscripts = ""  (string)
+[14:01:27] password = ""  (string)
+[14:01:27] 
+[14:01:27] Server Plugins
+[14:01:27] --------------
+[14:01:27]  Loading plugin: crashdetect
+[14:01:27]   CrashDetect v4.18.1 is OK.
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: pawncmd
+[14:01:27] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: sscanf
+[14:01:27] 
+
+[14:01:27]  ===============================
+
+[14:01:27]       sscanf plugin loaded.     
+
+[14:01:27]          Version:  2.8.2        
+
+[14:01:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:01:27]  ===============================
+
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: streamer
+[14:01:27] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: mysql
+[14:01:27]  >> plugin.mysql: R39-5 successfully loaded.
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: Whirlpool
+[14:01:27]  
+[14:01:27]  ==================
+[14:01:27]  
+[14:01:27]   Whirlpool loaded
+[14:01:27]  
+[14:01:27]  ==================
+[14:01:27]  
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: SKY
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: regex
+[14:01:27] 
+
+[14:01:27] ______________________________________
+
+[14:01:27]  Regular Expression Plugin v0.2.1 loaded
+[14:01:27] ______________________________________
+
+[14:01:27]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:01:27] ______________________________________
+
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: YSF
+[14:01:27] ARRAY_ConsoleCommands: 4e43d8
+[14:01:27] 
+
+[14:01:27]  ===============================
+
+[14:01:27]         YSF - kurta999's version R19 loaded
+
+[14:01:27]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[14:01:27]     Server version: 0.3.7 R2-1
+
+[14:01:27]     Operating System: Windows
+
+[14:01:27]     Built on: Mar 11 2017 at 10:32:34
+
+[14:01:27]  ===============================
+
+[14:01:27]   Loaded.
+[14:01:27]  Loading plugin: nativechecker
+[14:01:27]   Loaded.
+[14:01:27]  Loaded 10 plugins.
+
+[14:01:27] I couldn't load any gamemode scripts. Please verify your server.cfg
+[14:01:27] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:07:05] filterscripts = ""  (string)
+[14:07:05] password = ""  (string)
+[14:07:05] 
+[14:07:05] Server Plugins
+[14:07:05] --------------
+[14:07:05]  Loading plugin: crashdetect
+[14:07:05]   CrashDetect v4.18.1 is OK.
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: pawncmd
+[14:07:05] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: sscanf
+[14:07:05] 
+
+[14:07:05]  ===============================
+
+[14:07:05]       sscanf plugin loaded.     
+
+[14:07:05]          Version:  2.8.2        
+
+[14:07:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:07:05]  ===============================
+
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: streamer
+[14:07:05] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: mysql
+[14:07:05]  >> plugin.mysql: R39-5 successfully loaded.
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: Whirlpool
+[14:07:05]  
+[14:07:05]  ==================
+[14:07:05]  
+[14:07:05]   Whirlpool loaded
+[14:07:05]  
+[14:07:05]  ==================
+[14:07:05]  
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: SKY
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: regex
+[14:07:05] 
+
+[14:07:05] ______________________________________
+
+[14:07:05]  Regular Expression Plugin v0.2.1 loaded
+[14:07:05] ______________________________________
+
+[14:07:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:07:05] ______________________________________
+
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: YSF
+[14:07:05] ARRAY_ConsoleCommands: 4e43d8
+[14:07:05] 
+
+[14:07:05]  ===============================
+
+[14:07:05]         YSF - kurta999's version R19 loaded
+
+[14:07:05]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[14:07:05]     Server version: 0.3.7 R2-1
+
+[14:07:05]     Operating System: Windows
+
+[14:07:05]     Built on: Mar 11 2017 at 10:32:34
+
+[14:07:05]  ===============================
+
+[14:07:05]   Loaded.
+[14:07:05]  Loading plugin: nativechecker
+[14:07:05]   Loaded.
+[14:07:05]  Loaded 10 plugins.
+
+[14:07:05] 
+[14:07:05] Filterscripts
+[14:07:05] ---------------
+[14:07:05]   Loaded 0 filterscripts.
+
+[14:07:06]  
+[14:07:06]  
+[14:07:06]  
+[14:07:06]  ======================================= 
+[14:07:06]  |                                     | 
+[14:07:06]  |        YSI version 4.00.0001        | 
+[14:07:06]  |        By Alex "Y_Less" Cole        | 
+[14:07:06]  |                                     | 
+[14:07:06]  ======================================= 
+[14:07:06]  
+[14:07:12] Old School Roleplay is loading...
+[14:07:12] Saving server information on mysql...
+[14:07:12] Get shit on by Anti-DeAMX
+[14:07:12] LSPD Map has been loaded successfully
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOO??????????????????OOOO????SSSSSS				   
+[14:07:12] OOOO??????????????????OOOO????SSSSSS				   
+[14:07:12] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[14:07:12] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[14:07:12] OOOO??????????????????OOOO????????????????????SSSSSS
+[14:07:12] OOOO??????????????????OOOO????????????????????SSSSSS
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:07:12] ______________________________________________
+[14:07:12] | Old School Roleplay by Pedro		        |
+[14:07:12] | Gamemode loaded successfully.              |
+[14:07:12] ______________________________________________
+[14:07:12] 169 objects loaded.
+[14:07:12] Number of vehicle models: 16
+[14:07:13] [Script] 0 houses loaded.
+[14:07:13] (SQL) 0 furniture loaded.
+[14:07:13] [Script] 0 garages loaded.
+[14:07:13] [Script] 0 businesses loaded.
+[14:07:13] [Script] 0 entrances loaded.
+[14:07:13] [Script] 0 factions loaded.
+[14:07:13] [Script] 0 lands loaded.
+[14:07:13] [Script] 0 gangs loaded.
+[14:07:13] [Script] 0 points loaded.
+[14:07:13] [Script] 0 turfs loaded.
+[14:07:13] [Script] 0 locations loaded
+[14:07:13] [Script] 0 crews loaded
+[14:07:13] [Script] 0 atms loaded
+[14:07:13] [2019-04-25 14:07]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[14:07:13] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[14:07:13] [Script] 0 vips removed.
+[14:07:59] [connection] 192.168.2.155:64486 requests connection cookie.
+[14:08:00] [connection] incoming connection: 192.168.2.155:64486 id: 0
+[14:08:15] [connection] incoming connection: 192.168.2.155:64487 id: 0
+[14:08:30] [connection] incoming connection: 192.168.2.155:57667 id: 0
+[14:08:46] [connection] incoming connection: 192.168.2.155:57669 id: 0
+[14:08:46] [connection] incoming connection: 192.168.2.155:57670 id: 0
+[14:08:46] [join] Ronald_Stone has joined the server (0:192.168.2.155)
+[14:08:46] The request failed! The response code was: 6
+[14:09:02] [part] Ronald_Stone has left the server (0:2)
+[14:12:09] [connection] 192.168.2.155:53062 requests connection cookie.
+[14:12:10] [connection] incoming connection: 192.168.2.155:53062 id: 0
+[14:12:25] [connection] incoming connection: 192.168.2.155:62068 id: 0
+[14:12:25] [connection] incoming connection: 192.168.2.155:62069 id: 0
+[14:12:26] [join] Jason_Bracker has joined the server (0:192.168.2.155)
+[14:12:26] The request failed! The response code was: 6
+[14:12:43] Spawned player on spawn 2
+[14:12:43] OnPlayerSpawn: Jason Bracker[0] has just spawned on Old School Roleplay for the first time!
+[14:12:47] [zcmd] [Jason_Bracker]:refuzionisback 
+[14:12:50] [zcmd] [Jason_Bracker]:refuzionisback 0
+[14:12:54] [zcmd] [Jason_Bracker]:refuzionishere 
+[14:12:55] [zcmd] [Jason_Bracker]:refuzionishere 0
+[14:12:57] [zcmd] [Jason_Bracker]:a 
+[14:12:59] [zcmd] [Jason_Bracker]:a /
+[14:13:03] [zcmd] [Jason_Bracker]:a Hai hai
+[14:13:06] [zcmd] [Jason_Bracker]:setadminname 
+[14:13:11] [zcmd] [Jason_Bracker]:setadminname 0 refuzion
+[14:13:11] AdmCmd: Jason_Bracker changed Jason_Bracker's administrator name to refuzion.
+[14:13:21] [zcmd] [Jason_Bracker]:admins 
+[14:13:22] [zcmd] [Jason_Bracker]:oadmins 
+[14:13:27] [zcmd] [Jason_Bracker]:ahelp 
+[14:13:34] [zcmd] [Jason_Bracker]:serversetting 
+[14:13:38] [zcmd] [Jason_Bracker]:doublexp 
+[14:13:54] [zcmd] [Jason_Bracker]:setstaff 
+[14:14:07] [zcmd] [Jason_Bracker]:setstaff Jas factionmod 1
+[14:14:07] AdmCmd: Jason Bracker has made Jason Bracker a faction moderator.
+[14:14:11] [zcmd] [Jason_Bracker]:setstaff Jas gangmod 1
+[14:14:11] AdmCmd: Jason Bracker has made Jason Bracker a gang moderator.
+[14:14:15] [zcmd] [Jason_Bracker]:setstaff Jas banappealer 1
+[14:14:15] AdmCmd: Jason Bracker has made Jason Bracker a ban appealer.
+[14:14:19] [zcmd] [Jason_Bracker]:setstaff Jas adminpersonal 1
+[14:14:24] [zcmd] [Jason_Bracker]:setstaff Jas adminpersonel 1
+[14:14:27] [zcmd] [Jason_Bracker]:setstaff Jas adminpersonnel 1
+[14:14:27] AdmCmd: Jason Bracker has made Jason Bracker admin personnel.
+[14:14:34] [zcmd] [Jason_Bracker]:setstaff Jas publicrelations 1
+[14:14:34] AdmCmd: Jason Bracker has made Jason Bracker a Public Relations.
+[14:14:38] [zcmd] [Jason_Bracker]:setstaff Jas gameaffairs 1
+[14:14:38] AdmCmd: Jason Bracker has made Jason Bracker a part of the department of game affairs.
+[14:14:46] [zcmd] [Jason_Bracker]:setstaff Jas dynamicadmin 1
+[14:14:46] AdmCmd: Jason Bracker has made Jason Bracker a dynamic admin.
+[14:14:57] [zcmd] [Jason_Bracker]:setstaff Jas scripter 1
+[14:14:57] AdmCmd: Jason Bracker has made Jason Bracker a developer.
+[14:15:05] [zcmd] [Jason_Bracker]:setstaff Jas Humanresources 1
+[14:15:05] AdmCmd: Jason Bracker has made Jason Bracker a part of the human resources.
+[14:15:10] [zcmd] [Jason_Bracker]:setstaff Jas businessmod 1
+[14:15:10] AdmCmd: Jason Bracker has made Jason Bracker a business moderator.
+[14:15:20] [zcmd] [Jason_Bracker]:setstaff Jas complaintmod 1
+[14:15:20] AdmCmd: Jason Bracker has made Jason Bracker a complaint moderator status.
+[14:15:22] [zcmd] [Jason_Bracker]:a 
+[14:15:25] [chat] [Jason_Bracker]: a .
+[14:15:25] [zcmd] [Jason_Bracker]:a .
+[14:15:27] [zcmd] [Jason_Bracker]:aduty 
+[14:15:27] AdmCmd: Jason Bracker is now on admin duty.
+[14:15:27] [nick] Jason_Bracker nick changed to refuzion
+[14:15:29] [zcmd] [refuzion]:accent 22
+[14:15:31] [chat] [refuzion]: .
+[14:15:35] [zcmd] [refuzion]:engine 
+[14:15:37] [zcmd] [refuzion]:veh sulta
+[14:15:37] AdmCmd: refuzion spawned a Sultan.
+[14:15:53] [zcmd] [refuzion]:server 
+[14:15:54] [zcmd] [refuzion]:ahelp 
+[14:16:02] [zcmd] [refuzion]:setstat refuz level 30
+[14:16:02] AdmCmd: refuzion set refuzion's level to 30
+[14:16:18] [zcmd] [refuzion]:setstat refuz cash 500000
+[14:16:18] AdmCmd: refuzion set refuzion's cash to 500000
+[14:16:25] [zcmd] [refuzion]:setstat ref bank 1000000
+[14:16:25] AdmCmd: refuzion set refuzion's bank to 1000000
+[14:16:30] [zcmd] [refuzion]:setstat 
+[14:16:41] [zcmd] [refuzion]:a .
+[14:16:42] [zcmd] [refuzion]:g .
+[14:16:43] [zcmd] [refuzion]:togglobal 
+[14:16:46] [zcmd] [refuzion]:togglobal 
+[14:16:48] [zcmd] [refuzion]:otoggle global
+[14:16:49] [zcmd] [refuzion]:g .
+[14:16:54] [zcmd] [refuzion]:settitle refuzion Management
+[14:16:58] [zcmd] [refuzion]:settitle refuzion name Owner
+[14:16:58] AdmCmd: refuzion has set the customtitle of refuzion to 'Owner'.
+[14:17:05] [zcmd] [refuzion]:settitle refuz color 0xFF0000
+[14:17:05] AdmCmd: refuzion has set the {00FF00}color{FF6347} of refuzion's title.
+[14:17:07] [zcmd] [refuzion]:settitle refuz color 0xFF0000FF
+[14:17:07] AdmCmd: refuzion has set the {FF0000}color{FF6347} of refuzion's title.
+[14:17:08] [zcmd] [refuzion]:g .
+[14:17:24] [zcmd] [refuzion]:destroyveh 
+[14:17:25] [zcmd] [refuzion]:goto lv
+[14:17:32] [zcmd] [refuzion]:setskin ref 125
+[14:17:41] [zcmd] [refuzion]:ocheck Ronald_Stone
+[14:17:46] [zcmd] [refuzion]:deleteaccount Ronald_Stone
+[14:17:46] AdmCmd: {D909D9}Management{FF6347} refuzion has deleted Ronald_Stone's account.
+[14:18:02] [zcmd] [refuzion]:settitle refuz color 0xFF1100FF
+[14:18:02] AdmCmd: refuzion has set the {FF1100}color{FF6347} of refuzion's title.
+[14:18:06] [zcmd] [refuzion]:settitle refuz color 0xFF5500FF
+[14:18:06] AdmCmd: refuzion has set the {FF5500}color{FF6347} of refuzion's title.
+[14:18:08] [zcmd] [refuzion]:g .
+[14:18:16] [zcmd] [refuzion]:settitle refuz color 0xFF4500FF
+[14:18:16] AdmCmd: refuzion has set the {FF4500}color{FF6347} of refuzion's title.
+[14:18:19] [zcmd] [refuzion]:settitle refuz color 0xFF3300FF
+[14:18:19] AdmCmd: refuzion has set the {FF3300}color{FF6347} of refuzion's title.
+[14:18:23] [zcmd] [refuzion]:settitle refuz color 0x333300FF
+[14:18:23] AdmCmd: refuzion has set the {333300}color{FF6347} of refuzion's title.
+[14:18:27] [zcmd] [refuzion]:settitle refuz color 0x333355FF
+[14:18:27] AdmCmd: refuzion has set the {333355}color{FF6347} of refuzion's title.
+[14:18:34] [zcmd] [refuzion]:settitle refuz color 0x885555FF
+[14:18:34] AdmCmd: refuzion has set the {885555}color{FF6347} of refuzion's title.
+[14:18:37] [zcmd] [refuzion]:settitle refuz color 0xff5555FF
+[14:18:37] AdmCmd: refuzion has set the {FF5555}color{FF6347} of refuzion's title.
+[14:18:40] [zcmd] [refuzion]:g .
+[14:18:46] [zcmd] [refuzion]:clearchat 
+[14:18:48] [zcmd] [refuzion]:cc 
+[14:18:48] Chat was cleared by admin refuzion
+[14:18:50] [zcmd] [refuzion]:a nice.
+[14:18:53] [zcmd] [refuzion]:admins 
+[14:18:55] [zcmd] [refuzion]:oadmins 
+[14:18:57] [zcmd] [refuzion]:offlineamdins 
+[14:18:59] [zcmd] [refuzion]:ah 
+[14:19:21] [zcmd] [refuzion]:spawnnpc 
+[14:19:22] [zcmd] [refuzion]:ah 
+[14:19:31] [zcmd] [refuzion]:obscurent 
+[14:19:33] [zcmd] [refuzion]:obscurent 1
+[14:19:33] AdmCmd: refuzion has enabled nametags obfuscation.
+[14:19:39] [zcmd] [refuzion]:obscurent 0
+[14:19:39] AdmCmd: refuzion has disabled nametags obfuscation.
+[14:19:44] [zcmd] [refuzion]:fixplayerid 
+[14:19:52] [zcmd] [refuzion]:fixplayerid 0
+[14:20:00] [zcmd] [refuzion]:disablevpn 
+[14:20:02] [zcmd] [refuzion]:disablevpn 1
+[14:20:02] AdmCmd: refuzion has disabled joining with VPN.
+[14:20:05] [zcmd] [refuzion]:disablevpn 0
+[14:20:05] AdmCmd: refuzion has enabled joining with VPN.
+[14:20:11] [zcmd] [refuzion]:goto ls
+[14:20:24] [zcmd] [refuzion]:switchfaction ref 1 10
+[14:20:25] [zcmd] [refuzion]:factionhelp 
+[14:20:27] [zcmd] [refuzion]:factions 
+[14:20:44] [zcmd] [refuzion]:goto bigammu
+[14:20:46] [zcmd] [refuzion]:goto 
+[14:20:50] [zcmd] [refuzion]:goto idlewood
+[14:40:26] [zcmd] [refuzion]:kcp 
+[14:40:27] [nick] refuzion nick changed to Jason_Bracker
+[14:40:27] [part] Jason_Bracker has left the server (0:1)
+[14:41:13] [connection] 192.168.2.155:52946 requests connection cookie.
+[14:41:14] [connection] incoming connection: 192.168.2.155:52946 id: 0
+[14:41:24] [connection] incoming connection: 192.168.2.155:52947 id: 0
+[14:41:25] [connection] incoming connection: 192.168.2.155:52948 id: 0
+[14:41:25] [join] Jason_Bracker has joined the server (0:192.168.2.155)
+[14:41:40] [zcmd] [Jason_Bracker]:globalmotd 
+[14:41:42] [zcmd] [Jason_Bracker]:ahelp 
+[14:41:45] [zcmd] [Jason_Bracker]:refuzionisback 
+[14:41:46] [zcmd] [Jason_Bracker]:a .
+[14:41:49] [zcmd] [Jason_Bracker]:refuzionishere 
+[14:41:50] [zcmd] [Jason_Bracker]:a .
+[14:41:52] [zcmd] [Jason_Bracker]:setstaff 
+[14:41:54] [zcmd] [Jason_Bracker]:makeadmin 
+[14:41:56] [zcmd] [Jason_Bracker]:makeadmin 0 10
+[14:41:56] AdmCmd: Jason Bracker has made Jason Bracker a Management (10).
+[14:41:56] [2019-04-25 14:41]
+Error ID: 1054
+Callback: 
+Query: UPDATE `users` SET addeddate = '2019-04-25 14:41' WHERE uid = 2
+Error: Unknown column 'addeddate' in 'field list'
+
+
+[14:41:56] AdmCmd: A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+Console input: kick Jason Bracker
+[14:42:58] Jason_Bracker <#0 - 192.168.2.155> has been kicked.
+[14:42:58] YSF: IsPlayerConnected: Expecting 1 parameter(s), but found 1621137
+[14:42:58] [debug] Run time error 6: "Invalid instruction"
+[14:42:58] [debug]  Unknown opcode 0x78 at address 0x00000000
+[14:42:58] [debug] AMX backtrace:
+[14:42:58] [debug] Server crashed due to an unknown error
+[14:42:58] [debug] Native backtrace:
+[14:42:58] [debug] #0 7707446a in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[14:42:58] [debug] #1 77073812 in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[14:42:58] [debug] #2 00498e11 in ?? () from samp-server.exe
+[14:42:58] [debug] #3 00482cef in ?? () from samp-server.exe
+[14:42:58] [debug] #4 00466607 in ?? () from samp-server.exe
+[14:42:58] [debug] Registers:
+[14:42:58] [debug] EAX: 00000000 EBX: 03449af0 ECX: 00000000 EDX: 03466d98
+[14:42:58] [debug] ESI: 03466d90 EDI: 006f0000 EBP: 00000000 ESP: 0019fcc4
+[14:42:58] [debug] EIP: 00466607 EFLAGS: 00010246
+[14:42:58] [debug] Stack:
+[14:42:58] [debug] ESP+00000000: 757d64a0 006f9e98 02dc5a98 00000000
+[14:42:58] [debug] ESP+00000020: 02dc5cd8 6f6e6e00 65636e75 00000000
+[14:42:58] [debug] ESP+00000040: 6f6e6e61 65636e75 00000000 7708c92c
+[14:42:58] [debug] ESP+00000060: 00000000 00000000 00000000 00000000
+[14:42:58] [debug] ESP+00000080: 029b0020 00000000 00d97f6b ffffffff
+[14:42:58] [debug] ESP+000000a0: 00004eab 0019fe1c 69b42aa3 0019fdec
+[14:42:58] [debug] ESP+000000c0: 0019fdd8 0552fa50 7708c92c 7582f7c0
+[14:42:58] [debug] ESP+000000e0: 7708c92c 7582f7c0 7709ac1c 73cc722b
+[14:42:58] [debug] ESP+00000100: 7582f770 be3cb27a ffffffff 00000001
+[14:42:58] [debug] ESP+00000120: 00000000 81000000 00000000 006f9e98
+[14:42:58] [debug] ESP+00000140: 00000000 00000001 00491093 02dc5a98
+[14:42:58] [debug] ESP+00000160: 00000000 3bfd8835 0048d4db 00000000
+[14:42:58] [debug] ESP+00000180: 00010001 00000096 00001e61 000000a0
+[14:42:58] [debug] ESP+000001a0: 00003531 004c4020 004c401c 00306000
+[14:42:58] [debug] ESP+000001c0: 0049d208 004ba2f8 ffffffff 0049b4a1
+[14:42:58] [debug] ESP+000001e0: ffffffff 0049cca6 00000001 006f1628
+[14:42:58] [debug] ESP+00000200: 000023f0 00000002 00000000 00000000
+[14:42:58] [debug] ESP+00000220: 00000000 00000000 00000000 00000000
+[14:42:58] [debug] ESP+00000240: 00000000 00000000 00000000 00000000
+[14:42:58] [debug] ESP+00000260: 00000000 00000000 00000000 00000000
+[14:42:58] [debug] ESP+00000280: 00000000 0049cb52 0049cb3a 0049cb3a
+[14:42:58] [debug] ESP+000002a0: 00000000 0019feb8 0019f69c 0019ffcc
+[14:42:58] [debug] ESP+000002c0: 757d8494 00306000 757d8470 b3471bd5
+[14:42:58] [debug] ESP+000002e0: 00000000 00000000 00306000 00000000
+[14:42:58] [debug] ESP+00000300: 0019ffa0 00000000 0019ffe4 770a2bf0
+[14:42:58] [debug] ESP+00000320: ffffffff 770af357 00000000 00000000
+[14:42:58] [debug] ESP+00000340: 00000020 00000001 00003318 000000dc
+[14:42:58] [debug] ESP+00000360: 00000001 00000007 00000034 0000017c
+[14:42:58] [debug] ESP+00000380: 00000000 00000000 00000002 1a26ef4e
+[14:42:58] [debug] ESP+000003a0: 00000000 f33271ba 0000053c 0000004a
+[14:42:58] [debug] ESP+000003c0: 000008cc 00000032 00000900 000002fa
+[14:42:58] [debug] ESP+000003e0: 00000c40 00000330 00000000 38505fc8
+[14:42:58] [debug] Loaded modules:
+[14:42:58] [debug] 00400000 - 00519000 samp-server.exe
+[14:42:58] [debug] 77030000 - 771c0000 ntdll.dll
+[14:42:58] [debug] 757c0000 - 758a0000 KERNEL32.DLL
+[14:42:58] [debug] 73bc0000 - 73da4000 KERNELBASE.dll
+[14:42:58] [debug] 73db0000 - 750fa000 SHELL32.dll
+[14:42:58] [debug] 75ce0000 - 75d9f000 msvcrt.dll
+[14:42:58] [debug] 76d20000 - 76d59000 cfgmgr32.dll
+[14:42:58] [debug] 758f0000 - 75a0d000 ucrtbase.dll
+[14:42:58] [debug] 73a40000 - 73ac8000 shcore.dll
+[14:42:58] [debug] 75a70000 - 75b30000 RPCRT4.dll
+[14:42:58] [debug] 738f0000 - 73910000 SspiCli.dll
+[14:42:58] [debug] 738e0000 - 738ea000 CRYPTBASE.dll
+[14:42:58] [debug] 75100000 - 75158000 bcryptPrimitives.dll
+[14:42:58] [debug] 758a0000 - 758e4000 sechost.dll
+[14:42:58] [debug] 762e0000 - 7653c000 combase.dll
+[14:42:58] [debug] 75180000 - 7573a000 windows.storage.dll
+[14:42:58] [debug] 73b40000 - 73bb8000 advapi32.dll
+[14:42:58] [debug] 75a20000 - 75a65000 shlwapi.dll
+[14:42:58] [debug] 76f00000 - 76f22000 GDI32.dll
+[14:42:58] [debug] 75f50000 - 760b4000 gdi32full.dll
+[14:42:58] [debug] 75740000 - 757bd000 msvcp_win.dll
+[14:42:59] [debug] 75b40000 - 75ccd000 USER32.dll
+[14:42:59] [debug] 76b90000 - 76ba7000 win32u.dll
+[14:42:59] [debug] 762d0000 - 762df000 kernel.appcore.dll
+[14:42:59] [debug] 75160000 - 75178000 profapi.dll
+[14:42:59] [debug] 739f0000 - 73a35000 powrprof.dll
+[14:42:59] [debug] 75a10000 - 75a18000 FLTLIB.DLL
+[14:42:59] [debug] 731a0000 - 731a8000 WSOCK32.dll
+[14:42:59] [debug] 76260000 - 762c7000 WS2_32.dll
+[14:42:59] [debug] 738a0000 - 738c4000 WINMM.dll
+[14:42:59] [debug] 71910000 - 71933000 WINMMBASE.dll
+[14:42:59] [debug] 76ed0000 - 76ef6000 IMM32.DLL
+[14:42:59] [debug] 6dac0000 - 6db10000 crashdetect.DLL
+[14:42:59] [debug] 69c70000 - 69d2f000 MSVCR100.dll
+[14:42:59] [debug] 6da50000 - 6dab9000 MSVCP100.dll
+[14:42:59] [debug] 6da10000 - 6da49000 pawncmd.DLL
+[14:42:59] [debug] 10000000 - 1000f000 sscanf.DLL
+[14:42:59] [debug] 6baf0000 - 6bb05000 VCRUNTIME140.dll
+[14:42:59] [debug] 69c10000 - 69c6a000 streamer.DLL
+[14:42:59] [debug] 69b90000 - 69c03000 MSVCP140.dll
+[14:42:59] [debug] 69b40000 - 69b84000 mysql.DLL
+[14:42:59] [debug] 675f0000 - 67afd000 libmysql.dll
+[14:42:59] [debug] 71760000 - 7176a000 Secur32.dll
+[14:42:59] [debug] 6f200000 - 6f211000 napinsp.dll
+[14:42:59] [debug] 6ef40000 - 6ef56000 pnrpnsp.dll
+[14:42:59] [debug] 71290000 - 712a3000 NLAapi.dll
+[14:42:59] [debug] 73140000 - 73196000 mswsock.dll
+[14:42:59] [debug] 72e30000 - 72ebe000 DNSAPI.dll
+[14:42:59] [debug] 75cd0000 - 75cd7000 NSI.dll
+[14:42:59] [debug] 73690000 - 736c0000 IPHLPAPI.DLL
+[14:42:59] [debug] 6f460000 - 6f46c000 winrnr.dll
+[14:42:59] [debug] 6ef20000 - 6ef31000 wshbth.dll
+[14:42:59] [debug] 6f1c0000 - 6f1e1000 mdnsNSP.dll
+[14:42:59] [debug] 72e20000 - 72e28000 rasadhlp.dll
+[14:42:59] [debug] 02770000 - 0277c000 Whirlpool.DLL
+[14:42:59] [debug] 69aa0000 - 69b3b000 MSVCR80.dll
+[14:42:59] [debug] 699e0000 - 69a1a000 SKY.DLL
+[14:42:59] [debug] 76f30000 - 76f36000 PSAPI.DLL
+[14:42:59] [debug] 699a0000 - 699d1000 regex.DLL
+[14:42:59] [debug] 69890000 - 6991e000 MSVCP90.dll
+[14:42:59] [debug] 697e0000 - 69883000 MSVCR90.dll
+[14:42:59] [debug] 02840000 - 028db000 YSF.DLL
+[14:42:59] [debug] 76dd0000 - 76ecc000 ole32.dll
+[14:42:59] [debug] 765d0000 - 76666000 OLEAUT32.dll
+[14:42:59] [debug] 6d9d0000 - 6d9d5000 nativechecker.DLL
+[14:42:59] [debug] 72dd0000 - 72e1f000 fwpuclnt.dll
+[14:42:59] [debug] 73660000 - 73679000 bcrypt.dll
+[14:42:59] [debug] 71510000 - 7158c000 uxtheme.dll
+[14:42:59] [debug] 72ec0000 - 73040000 PROPSYS.dll
+[14:42:59] [debug] 76540000 - 765c3000 clbcatq.dll
+[14:42:59] [debug] 69d30000 - 69d6d000 edputil.dll
+[14:42:59] [debug] 71770000 - 7190d000 urlmon.dll
+[14:42:59] [debug] 712b0000 - 714d8000 iertutil.dll
+[14:42:59] [debug] 6d9e0000 - 6d9fa000 CLDAPI.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:17] filterscripts = ""  (string)
+[14:43:17] password = ""  (string)
+[14:43:17] 
+[14:43:17] Server Plugins
+[14:43:17] --------------
+[14:43:17]  Loading plugin: crashdetect
+[14:43:17]   CrashDetect v4.18.1 is OK.
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: pawncmd
+[14:43:17] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: sscanf
+[14:43:17] 
+
+[14:43:17]  ===============================
+
+[14:43:17]       sscanf plugin loaded.     
+
+[14:43:17]          Version:  2.8.2        
+
+[14:43:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:43:17]  ===============================
+
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: streamer
+[14:43:17] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: mysql
+[14:43:17]  >> plugin.mysql: R39-5 successfully loaded.
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: Whirlpool
+[14:43:17]  
+[14:43:17]  ==================
+[14:43:17]  
+[14:43:17]   Whirlpool loaded
+[14:43:17]  
+[14:43:17]  ==================
+[14:43:17]  
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: SKY
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: regex
+[14:43:17] 
+
+[14:43:17] ______________________________________
+
+[14:43:17]  Regular Expression Plugin v0.2.1 loaded
+[14:43:17] ______________________________________
+
+[14:43:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:43:17] ______________________________________
+
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: YSF
+[14:43:17] ARRAY_ConsoleCommands: 4e43d8
+[14:43:17] 
+
+[14:43:17]  ===============================
+
+[14:43:17]         YSF - kurta999's version R19 loaded
+
+[14:43:17]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[14:43:17]     Server version: 0.3.7 R2-1
+
+[14:43:17]     Operating System: Windows
+
+[14:43:17]     Built on: Mar 11 2017 at 10:32:34
+
+[14:43:17]  ===============================
+
+[14:43:17]   Loaded.
+[14:43:17]  Loading plugin: nativechecker
+[14:43:17]   Loaded.
+[14:43:17]  Loaded 10 plugins.
+
+[14:43:18] 
+[14:43:18] Filterscripts
+[14:43:18] ---------------
+[14:43:18]   Loaded 0 filterscripts.
+
+[14:43:18]  
+[14:43:18]  
+[14:43:18]  
+[14:43:18]  ======================================= 
+[14:43:18]  |                                     | 
+[14:43:18]  |        YSI version 4.00.0001        | 
+[14:43:18]  |        By Alex "Y_Less" Cole        | 
+[14:43:18]  |                                     | 
+[14:43:18]  ======================================= 
+[14:43:18]  
+[14:43:25] Old School Roleplay is loading...
+[14:43:25] Saving server information on mysql...
+[14:43:25] Get shit on by Anti-DeAMX
+[14:43:25] LSPD Map has been loaded successfully
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOO??????????????????OOOO????SSSSSS				   
+[14:43:25] OOOO??????????????????OOOO????SSSSSS				   
+[14:43:25] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[14:43:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[14:43:25] OOOO??????????????????OOOO????????????????????SSSSSS
+[14:43:25] OOOO??????????????????OOOO????????????????????SSSSSS
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[14:43:25] ______________________________________________
+[14:43:25] | Old School Roleplay by Pedro		        |
+[14:43:25] | Gamemode loaded successfully.              |
+[14:43:25] ______________________________________________
+[14:43:25] 169 objects loaded.
+[14:43:25] Number of vehicle models: 16
+[14:43:25] [Script] 0 houses loaded.
+[14:43:25] (SQL) 0 furniture loaded.
+[14:43:25] [Script] 0 garages loaded.
+[14:43:25] [Script] 0 businesses loaded.
+[14:43:25] [Script] 0 entrances loaded.
+[14:43:25] [Script] 0 factions loaded.
+[14:43:25] [Script] 0 lands loaded.
+[14:43:25] [Script] 0 gangs loaded.
+[14:43:25] [Script] 0 points loaded.
+[14:43:25] [Script] 0 turfs loaded.
+[14:43:25] [Script] 0 locations loaded
+[14:43:25] [Script] 0 crews loaded
+[14:43:25] [Script] 0 atms loaded
+[14:43:25] [2019-04-25 14:43]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[14:43:25] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[14:43:25] [Script] 0 vips removed.
+[14:43:43] [connection] 192.168.2.155:63558 requests connection cookie.
+[14:43:44] [connection] incoming connection: 192.168.2.155:63558 id: 0
+[14:43:54] [connection] incoming connection: 192.168.2.155:63559 id: 0
+[14:43:55] [connection] incoming connection: 192.168.2.155:63560 id: 0
+[14:43:55] [join] Jason_Bracker has joined the server (0:192.168.2.155)
+[14:43:55] The request failed! The response code was: 6
+[14:44:09] [zcmd] [Jason_Bracker]:a .
+[14:44:12] [zcmd] [Jason_Bracker]:createfaction 
+[14:44:18] [zcmd] [Jason_Bracker]:createfaction Hitman
+[14:44:32] [zcmd] [Jason_Bracker]:createfaction Police Los Santos Police Department
+[14:44:32] AdmCmd: Jason Bracker has created a {F7A763}Law enforcement{FF6347} faction named 'Los Santos Police Department'.
+[14:44:49] [zcmd] [Jason_Bracker]:createfaction medic Los Santos Fire and Medical Department
+[14:44:49] AdmCmd: Jason Bracker has created a {F7A763}Medical & fire{FF6347} faction named 'Los Santos Fire and Medical Department'.
+[14:44:51] [zcmd] [Jason_Bracker]:factions 
+[14:45:05] [zcmd] [Jason_Bracker]:createfaction news San Andreas News
+[14:45:05] AdmCmd: Jason Bracker has created a {F7A763}News agency{FF6347} faction named 'San Andreas News'.
+[14:45:14] [zcmd] [Jason_Bracker]:editfaction 0 name
+[14:45:21] [zcmd] [Jason_Bracker]:editfaction 0 name San Andreas Police Department
+[14:45:21] AdmCmd: Jason Bracker has set the name of faction ID 0 to 'San Andreas Police Department'.
+[14:45:33] [zcmd] [Jason_Bracker]:editfaction 1 name San Andreas Fire and Mecial Department
+[14:45:33] AdmCmd: Jason Bracker has set the name of faction ID 1 to 'San Andreas Fire and Mecial Department'.
+[14:45:35] [zcmd] [Jason_Bracker]:createfaction 
+[14:45:45] [zcmd] [Jason_Bracker]:createfaction Government San Andreas Government
+[14:45:45] AdmCmd: Jason Bracker has created a {F7A763}Government{FF6347} faction named 'San Andreas Government'.
+[14:45:54] [zcmd] [Jason_Bracker]:createfaction Hitman Midnight Mafia
+[14:45:54] AdmCmd: Jason Bracker has created a {F7A763}Hitman agency{FF6347} faction named 'Midnight Mafia'.
+[14:46:07] [zcmd] [Jason_Bracker]:createfaction Federal Federal Bureau of Investigation
+[14:46:07] AdmCmd: Jason Bracker has created a {F7A763}Federal police{FF6347} faction named 'Federal Bureau of Investigation'.
+[14:46:10] [zcmd] [Jason_Bracker]:factions 
+[14:46:24] [zcmd] [Jason_Bracker]:createfaction army San Andreas Army
+[14:46:24] AdmCmd: Jason Bracker has created a {F7A763}Armed Forces{FF6347} faction named 'San Andreas Army'.
+[14:46:26] [zcmd] [Jason_Bracker]:faction 
+[14:46:35] [zcmd] [Jason_Bracker]:editfaction 0 color 0x552222ff
+[14:46:35] AdmCmd: Jason Bracker has set the {552222}color{FF6347} of faction ID 0.
+[14:46:40] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFFF222ff
+[14:46:40] AdmCmd: Jason Bracker has set the {FFF222}color{FF6347} of faction ID 0.
+[14:46:43] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFF222ff
+[14:46:43] AdmCmd: Jason Bracker has set the {0FF222}color{FF6347} of faction ID 0.
+[14:46:44] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFF222fFf
+[14:46:45] AdmCmd: Jason Bracker has set the {FF222F}color{FF6347} of faction ID 0.
+[14:46:48] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFF2242fFf
+[14:46:48] AdmCmd: Jason Bracker has set the {F2242F}color{FF6347} of faction ID 0.
+[14:46:52] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFF5542fFf
+[14:46:52] AdmCmd: Jason Bracker has set the {F5542F}color{FF6347} of faction ID 0.
+[14:46:55] [zcmd] [Jason_Bracker]:editfaction 0 color 0xFF5555fFf
+[14:46:55] AdmCmd: Jason Bracker has set the {F5555F}color{FF6347} of faction ID 0.
+[14:46:58] [zcmd] [Jason_Bracker]:factionhelp 
+[14:46:59] [zcmd] [Jason_Bracker]:factions 
+[14:47:08] [zcmd] [Jason_Bracker]:editfaction 1 color 0x0000FFFF
+[14:47:08] AdmCmd: Jason Bracker has set the {0000FF}color{FF6347} of faction ID 1.
+[14:47:11] [zcmd] [Jason_Bracker]:factionhelp 
+[14:47:13] [zcmd] [Jason_Bracker]:factions 
+[14:47:24] [zcmd] [Jason_Bracker]:editfaction 2 color 0x0F0F0F
+[14:47:24] AdmCmd: Jason Bracker has set the {000F0F}color{FF6347} of faction ID 2.
+[14:47:25] [zcmd] [Jason_Bracker]:editfaction 2 color 0x0F0F0FFF
+[14:47:25] AdmCmd: Jason Bracker has set the {0F0F0F}color{FF6347} of faction ID 2.
+[14:47:33] [zcmd] [Jason_Bracker]:editfaction 2 color 0x00FFFFFF
+[14:47:33] AdmCmd: Jason Bracker has set the {00FFFF}color{FF6347} of faction ID 2.
+[14:47:42] [zcmd] [Jason_Bracker]:editfaction 3 color 0x222222FF
+[14:47:42] AdmCmd: Jason Bracker has set the {222222}color{FF6347} of faction ID 3.
+[14:47:45] [zcmd] [Jason_Bracker]:factions 
+[14:47:55] [zcmd] [Jason_Bracker]:editfaction 4 color 0x552515FF
+[14:47:55] AdmCmd: Jason Bracker has set the {552515}color{FF6347} of faction ID 4.
+[14:47:58] [zcmd] [Jason_Bracker]:factionhelp 
+[14:48:00] [zcmd] [Jason_Bracker]:factions 
+[14:48:10] [zcmd] [Jason_Bracker]:editfaction 5 color 0x550055FF
+[14:48:10] AdmCmd: Jason Bracker has set the {550055}color{FF6347} of faction ID 5.
+[14:48:13] [zcmd] [Jason_Bracker]:factionhelp 
+[14:48:21] [zcmd] [Jason_Bracker]:editfaction 4 rank
+[14:48:22] [zcmd] [Jason_Bracker]:editfaction 4 
+[14:48:25] [zcmd] [Jason_Bracker]:editfaction 4 shortname
+[14:48:28] [zcmd] [Jason_Bracker]:editfaction 4 shortname MM
+[14:48:28] AdmCmd: Jason Bracker has set the short name of faction ID 4 to 'MM'.
+[14:48:30] [zcmd] [Jason_Bracker]:factions 
+[14:48:41] [zcmd] [Jason_Bracker]:editfaction 0 shortname SAPD
+[14:48:41] AdmCmd: Jason Bracker has set the short name of faction ID 0 to 'SAPD'.
+[14:48:50] [zcmd] [Jason_Bracker]:editfaction 1 shortname SAFMD
+[14:48:50] AdmCmd: Jason Bracker has set the short name of faction ID 1 to 'SAFMD'.
+[14:49:03] [zcmd] [Jason_Bracker]:editfaction 5 color 0x00ffffff
+[14:49:03] AdmCmd: Jason Bracker has set the {00FFFF}color{FF6347} of faction ID 5.
+[14:49:07] [zcmd] [Jason_Bracker]:editfaction 5 color 0x00f0ffff
+[14:49:07] AdmCmd: Jason Bracker has set the {00F0FF}color{FF6347} of faction ID 5.
+[14:49:12] [zcmd] [Jason_Bracker]:editfaction 5 color 0x0f00ffff
+[14:49:12] AdmCmd: Jason Bracker has set the {0F00FF}color{FF6347} of faction ID 5.
+[14:49:16] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff00ffff
+[14:49:16] AdmCmd: Jason Bracker has set the {FF00FF}color{FF6347} of faction ID 5.
+[14:49:19] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff0fffff
+[14:49:19] AdmCmd: Jason Bracker has set the {FF0FFF}color{FF6347} of faction ID 5.
+[14:49:24] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff0ff00
+[14:49:24] AdmCmd: Jason Bracker has set the {0FF0FF}color{FF6347} of faction ID 5.
+[14:49:26] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff0ff0000
+[14:49:26] AdmCmd: Jason Bracker has set the {F0FF00}color{FF6347} of faction ID 5.
+[14:49:27] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff0ff000000
+[14:49:27] AdmCmd: Jason Bracker has set the {FF0000}color{FF6347} of faction ID 5.
+[14:49:29] [zcmd] [Jason_Bracker]:editfaction 5 color 0xff0ff00000000
+[14:49:29] AdmCmd: Jason Bracker has set the {000000}color{FF6347} of faction ID 5.
+[14:49:32] [zcmd] [Jason_Bracker]:factions 
+[14:49:41] [zcmd] [Jason_Bracker]:editfaction 5 color 0x512511FF
+[14:49:41] AdmCmd: Jason Bracker has set the {512511}color{FF6347} of faction ID 5.
+[14:49:44] [zcmd] [Jason_Bracker]:editfaction 5 color 0x512511F
+[14:49:44] AdmCmd: Jason Bracker has set the {051251}color{FF6347} of faction ID 5.
+[14:49:46] [zcmd] [Jason_Bracker]:editfaction 5 color 0x51251
+[14:49:46] AdmCmd: Jason Bracker has set the {000512}color{FF6347} of faction ID 5.
+[14:49:47] [zcmd] [Jason_Bracker]:editfaction 5 color 0x51251111
+[14:49:47] AdmCmd: Jason Bracker has set the {512511}color{FF6347} of faction ID 5.
+[14:49:50] [zcmd] [Jason_Bracker]:editfaction 5 color 0x5125525
+[14:49:50] AdmCmd: Jason Bracker has set the {051255}color{FF6347} of faction ID 5.
+[14:49:51] [zcmd] [Jason_Bracker]:editfaction 5 color 0x512552
+[14:49:51] AdmCmd: Jason Bracker has set the {005125}color{FF6347} of faction ID 5.
+[14:49:53] [zcmd] [Jason_Bracker]:editfaction 5 color 0x5125525
+[14:49:53] AdmCmd: Jason Bracker has set the {051255}color{FF6347} of faction ID 5.
+[14:49:55] [zcmd] [Jason_Bracker]:factionhelp 
+[14:49:57] [zcmd] [Jason_Bracker]:factions 
+[14:50:05] [zcmd] [Jason_Bracker]:switchfaction Jas 4
+[14:50:05] AdmCmd: Jason Bracker has made Jason Bracker a Unspecified in Midnight Mafia.
+[14:50:09] [zcmd] [Jason_Bracker]:editfaction 4 rankname
+[14:50:15] [zcmd] [Jason_Bracker]:editfaction 4 rankname 0 Agent
+[14:50:15] AdmCmd: Jason Bracker has set rank 0's name of faction ID 4 to 'Agent'.
+[14:50:19] [zcmd] [Jason_Bracker]:editfaction 4 rankname 1 Senior Agent
+[14:50:19] AdmCmd: Jason Bracker has set rank 1's name of faction ID 4 to 'Senior Agent'.
+[14:50:32] [zcmd] [Jason_Bracker]:editfaction 4 rankname 0 Assosiate
+[14:50:32] AdmCmd: Jason Bracker has set rank 0's name of faction ID 4 to 'Assosiate'.
+[14:50:38] [zcmd] [Jason_Bracker]:editfaction 4 rankname 1 Soldier
+[14:50:38] AdmCmd: Jason Bracker has set rank 1's name of faction ID 4 to 'Soldier'.
+[14:50:50] [zcmd] [Jason_Bracker]:editfaction 4 rankname 2 Capo
+[14:50:50] AdmCmd: Jason Bracker has set rank 2's name of faction ID 4 to 'Capo'.
+[14:51:02] [zcmd] [Jason_Bracker]:editfaction 4 rankname 4 Consigiliere
+[14:51:02] AdmCmd: Jason Bracker has set rank 4's name of faction ID 4 to 'Consigiliere'.
+[14:51:07] [zcmd] [Jason_Bracker]:editfaction 4 rankname 5 Don
+[14:51:07] AdmCmd: Jason Bracker has set rank 5's name of faction ID 4 to 'Don'.
+[14:51:09] [zcmd] [Jason_Bracker]:editfaction 4 rankname 
+[14:51:21] [zcmd] [Jason_Bracker]:editfaction 4 rankname 3 Streetboss
+[14:51:21] AdmCmd: Jason Bracker has set rank 3's name of faction ID 4 to 'Streetboss'.
+[14:51:24] [zcmd] [Jason_Bracker]:faction 
+[14:51:33] [zcmd] [Jason_Bracker]:faction motd We kill, we don't get killed.
+[14:51:39] [zcmd] [Jason_Bracker]:faction motd
+[14:51:49] [zcmd] [Jason_Bracker]:faction leadership jas
+[14:51:53] [zcmd] [Jason_Bracker]:switchfaction 
+[14:52:05] [zcmd] [Jason_Bracker]:switchfaction jason 4 5 1
+[14:52:05] AdmCmd: Jason Bracker has made Jason Bracker a Don in Midnight Mafia.
+[14:52:07] [zcmd] [Jason_Bracker]:fc .
+[14:52:08] [zcmd] [Jason_Bracker]:a 
+[14:52:11] [zcmd] [Jason_Bracker]:a .
+[14:52:12] [zcmd] [Jason_Bracker]:a Gay
+[14:52:13] [zcmd] [Jason_Bracker]:aduty 
+[14:52:13] AdmCmd: Jason Bracker is now on admin duty.
+[14:52:13] [nick] Jason_Bracker nick changed to refuzion
+[14:52:16] [zcmd] [refuzion]:fly 
+[14:52:19] [zcmd] [refuzion]:ban 
+[14:52:22] [zcmd] [refuzion]:goto ls
+[14:52:54] [nick] refuzion nick changed to Jason_Bracker
+[14:52:54] [part] Jason_Bracker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:18] filterscripts = ""  (string)
+[20:14:18] password = ""  (string)
+[20:14:18] 
+[20:14:18] Server Plugins
+[20:14:18] --------------
+[20:14:18]  Loading plugin: crashdetect
+[20:14:18]   CrashDetect v4.18.1 is OK.
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: pawncmd
+[20:14:18] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: sscanf
+[20:14:18] 
+
+[20:14:18]  ===============================
+
+[20:14:18]       sscanf plugin loaded.     
+
+[20:14:18]          Version:  2.8.2        
+
+[20:14:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:14:18]  ===============================
+
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: streamer
+[20:14:18] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: mysql
+[20:14:18]  >> plugin.mysql: R39-5 successfully loaded.
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: Whirlpool
+[20:14:18]  
+[20:14:18]  ==================
+[20:14:18]  
+[20:14:18]   Whirlpool loaded
+[20:14:18]  
+[20:14:18]  ==================
+[20:14:18]  
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: SKY
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: regex
+[20:14:18] 
+
+[20:14:18] ______________________________________
+
+[20:14:18]  Regular Expression Plugin v0.2.1 loaded
+[20:14:18] ______________________________________
+
+[20:14:18]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:14:18] ______________________________________
+
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: YSF
+[20:14:18] ARRAY_ConsoleCommands: 4e43d8
+[20:14:18] 
+
+[20:14:18]  ===============================
+
+[20:14:18]         YSF - kurta999's version R19 loaded
+
+[20:14:18]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[20:14:18]     Server version: 0.3.7 R2-1
+
+[20:14:18]     Operating System: Windows
+
+[20:14:18]     Built on: Mar 11 2017 at 10:32:34
+
+[20:14:18]  ===============================
+
+[20:14:18]   Loaded.
+[20:14:18]  Loading plugin: nativechecker
+[20:14:18]   Loaded.
+[20:14:18]  Loaded 10 plugins.
+
+[20:14:18] 
+[20:14:18] Filterscripts
+[20:14:18] ---------------
+[20:14:18]   Loaded 0 filterscripts.
+
+[20:14:19]  
+[20:14:19]  
+[20:14:19]  
+[20:14:19]  ======================================= 
+[20:14:19]  |                                     | 
+[20:14:19]  |        YSI version 4.00.0001        | 
+[20:14:19]  |        By Alex "Y_Less" Cole        | 
+[20:14:19]  |                                     | 
+[20:14:19]  ======================================= 
+[20:14:19]  
+[20:14:25] Old School Roleplay is loading...
+[20:14:25] Saving server information on mysql...
+[20:14:25] Get shit on by Anti-DeAMX
+[20:14:25] LSPD Map has been loaded successfully
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOO??????????????????OOOO????SSSSSS				   
+[20:14:25] OOOO??????????????????OOOO????SSSSSS				   
+[20:14:25] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[20:14:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[20:14:25] OOOO??????????????????OOOO????????????????????SSSSSS
+[20:14:25] OOOO??????????????????OOOO????????????????????SSSSSS
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[20:14:25] ______________________________________________
+[20:14:25] | Old School Roleplay by Pedro		        |
+[20:14:25] | Gamemode loaded successfully.              |
+[20:14:25] ______________________________________________
+[20:14:25] 169 objects loaded.
+[20:14:25] Number of vehicle models: 16
+[20:14:25] [Script] 0 houses loaded.
+[20:14:25] (SQL) 0 furniture loaded.
+[20:14:25] [Script] 0 garages loaded.
+[20:14:25] [Script] 0 businesses loaded.
+[20:14:25] [Script] 0 entrances loaded.
+[20:14:26] [Script] 7 factions loaded.
+[20:14:26] [Script] 0 lands loaded.
+[20:14:26] [Script] 0 gangs loaded.
+[20:14:26] [Script] 0 points loaded.
+[20:14:26] [Script] 0 turfs loaded.
+[20:14:26] [Script] 0 locations loaded
+[20:14:26] [Script] 0 crews loaded
+[20:14:26] [Script] 0 atms loaded
+[20:14:26] [2019-04-25 20:14]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[20:14:26] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[20:14:26] [Script] 0 vips removed.
+[20:15:16] [connection] 192.168.2.155:63591 requests connection cookie.
+[20:15:17] [connection] incoming connection: 192.168.2.155:63591 id: 0
+[20:15:18] [connection] incoming connection: 192.168.2.155:63592 id: 0
+[20:15:18] [join] Jason_Bracker has joined the server (0:192.168.2.155)
+[20:15:18] The request failed! The response code was: 6
+[20:15:32] [zcmd] [Jason_Bracker]:a .
+[20:15:34] [zcmd] [Jason_Bracker]:g HAI
+[20:15:37] [zcmd] [Jason_Bracker]:otoggle global
+[20:15:37] [zcmd] [Jason_Bracker]:tog 
+[20:15:41] [zcmd] [Jason_Bracker]:o .
+[20:18:49] [zcmd] [Jason_Bracker]:admins 
+[20:30:54] [part] Jason_Bracker has left the server (0:1)
+[20:30:56] [2019-04-25 20:30]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+
+[20:30:56] AdmCmd: A MySQL error occurred (error 2003). Details written to mysql_error.txt.
+[20:30:58] [2019-04-25 20:30]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+
+[20:30:58] AdmCmd: A MySQL error occurred (error 2003). Details written to mysql_error.txt.
+[20:31:00] [2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET camera_x = '1482.412', camera_y = '-2252.56', camera_z = '14.474', pos_x = '1485.405', pos_y = '-2249.791', pos_z = '13.547', pos_a = '132.772', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 27, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+
+[20:31:00] AdmCmd: A MySQL error occurred (error 2003). Details written to mysql_error.txt.
+[20:31:02] [2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+
+[20:31:02] AdmCmd: A MySQL error occurred (error 2003). Details written to mysql_error.txt.
+[20:31:05] [2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 0, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+
+[20:31:05] AdmCmd: A MySQL error occurred (error 2003). Details written to mysql_error.txt.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:24] filterscripts = ""  (string)
+[19:25:24] password = ""  (string)
+[19:25:24] 
+[19:25:24] Server Plugins
+[19:25:24] --------------
+[19:25:24]  Loading plugin: crashdetect
+[19:25:24]   CrashDetect v4.18.1 is OK.
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: pawncmd
+[19:25:24] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: sscanf
+[19:25:24] 
+
+[19:25:24]  ===============================
+
+[19:25:24]       sscanf plugin loaded.     
+
+[19:25:24]          Version:  2.8.2        
+
+[19:25:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:25:24]  ===============================
+
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: streamer
+[19:25:24] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: mysql
+[19:25:24]  >> plugin.mysql: R39-5 successfully loaded.
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: Whirlpool
+[19:25:24]  
+[19:25:24]  ==================
+[19:25:24]  
+[19:25:24]   Whirlpool loaded
+[19:25:24]  
+[19:25:24]  ==================
+[19:25:24]  
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: SKY
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: regex
+[19:25:24] 
+
+[19:25:24] ______________________________________
+
+[19:25:24]  Regular Expression Plugin v0.2.1 loaded
+[19:25:24] ______________________________________
+
+[19:25:24]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:25:24] ______________________________________
+
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: YSF
+[19:25:24] ARRAY_ConsoleCommands: 4e43d8
+[19:25:24] 
+
+[19:25:24]  ===============================
+
+[19:25:24]         YSF - kurta999's version R19 loaded
+
+[19:25:24]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[19:25:24]     Server version: 0.3.7 R2-1
+
+[19:25:24]     Operating System: Windows
+
+[19:25:24]     Built on: Mar 11 2017 at 10:32:34
+
+[19:25:24]  ===============================
+
+[19:25:24]   Loaded.
+[19:25:24]  Loading plugin: nativechecker
+[19:25:24]   Loaded.
+[19:25:24]  Loaded 10 plugins.
+
+[19:25:24] 
+[19:25:24] Filterscripts
+[19:25:24] ---------------
+[19:25:24]   Loaded 0 filterscripts.
+
+[19:25:25]  
+[19:25:25]  
+[19:25:25]  
+[19:25:25]  ======================================= 
+[19:25:25]  |                                     | 
+[19:25:25]  |        YSI version 4.00.0001        | 
+[19:25:25]  |        By Alex "Y_Less" Cole        | 
+[19:25:25]  |                                     | 
+[19:25:25]  ======================================= 
+[19:25:25]  
+[19:25:27] Old School Roleplay is loading...
+[19:25:31] [ERROR] - Unable to establish a connection with the MySQL server...
+[19:25:31] Number of vehicle models: 0
+[19:25:31] --- Server Shutting Down.
+[19:25:41] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[19:25:41] 
+
+[19:25:41]  ===============================
+
+[19:25:41]      sscanf plugin unloaded.    
+
+[19:25:41]  ===============================
+
+[19:25:41] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[19:25:41] plugin.mysql: Unloading plugin...
+[19:25:41] plugin.mysql: Plugin unloaded.
+[19:25:41]  
+[19:25:41]  ====================
+[19:25:41]  
+[19:25:41]   Whirlpool unloaded
+[19:25:41]  
+[19:25:41]  ====================
+[19:25:41]  
+[19:25:41] 
+
+[19:25:41] ______________________________________
+
+[19:25:41]  Regular Expression Plugin v0.2.1 unloaded
+[19:25:41] ______________________________________
+
+[19:25:41] 
+
+[19:25:41]  ==============
+
+[19:25:41]   YSF - kurta999's version R19 unloaded
+
+[19:25:41]  ==============
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:21] filterscripts = ""  (string)
+[19:26:21] password = ""  (string)
+[19:26:21] 
+[19:26:21] Server Plugins
+[19:26:21] --------------
+[19:26:21]  Loading plugin: crashdetect
+[19:26:21]   CrashDetect v4.18.1 is OK.
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: pawncmd
+[19:26:21] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: sscanf
+[19:26:21] 
+
+[19:26:21]  ===============================
+
+[19:26:21]       sscanf plugin loaded.     
+
+[19:26:21]          Version:  2.8.2        
+
+[19:26:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:26:21]  ===============================
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: streamer
+[19:26:21] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: mysql
+[19:26:21]  >> plugin.mysql: R39-5 successfully loaded.
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: Whirlpool
+[19:26:21]  
+[19:26:21]  ==================
+[19:26:21]  
+[19:26:21]   Whirlpool loaded
+[19:26:21]  
+[19:26:21]  ==================
+[19:26:21]  
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: SKY
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: regex
+[19:26:21] 
+
+[19:26:21] ______________________________________
+
+[19:26:21]  Regular Expression Plugin v0.2.1 loaded
+[19:26:21] ______________________________________
+
+[19:26:21]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:26:21] ______________________________________
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: YSF
+[19:26:21] ARRAY_ConsoleCommands: 4e43d8
+[19:26:22] 
+
+[19:26:22]  ===============================
+
+[19:26:22]         YSF - kurta999's version R19 loaded
+
+[19:26:22]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[19:26:22]     Server version: 0.3.7 R2-1
+
+[19:26:22]     Operating System: Windows
+
+[19:26:22]     Built on: Mar 11 2017 at 10:32:34
+
+[19:26:22]  ===============================
+
+[19:26:22]   Loaded.
+[19:26:22]  Loading plugin: nativechecker
+[19:26:22]   Loaded.
+[19:26:22]  Loaded 10 plugins.
+
+[19:26:22] 
+[19:26:22] Filterscripts
+[19:26:22] ---------------
+[19:26:22]   Loaded 0 filterscripts.
+
+[19:26:22]  
+[19:26:22]  
+[19:26:22]  
+[19:26:22]  ======================================= 
+[19:26:22]  |                                     | 
+[19:26:22]  |        YSI version 4.00.0001        | 
+[19:26:22]  |        By Alex "Y_Less" Cole        | 
+[19:26:22]  |                                     | 
+[19:26:22]  ======================================= 
+[19:26:22]  
+[19:26:23] Old School Roleplay is loading...
+[19:26:23] Saving server information on mysql...
+[19:26:23] Get shit on by Anti-DeAMX
+[19:26:23] LSPD Map has been loaded successfully
+[19:26:23] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOO??????????????????OOOO????SSSSSS				   
+[19:26:23] OOOO??????????????????OOOO????SSSSSS				   
+[19:26:23] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[19:26:23] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[19:26:23] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:26:23] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:26:23] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:23] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:24] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:26:24] ______________________________________________
+[19:26:24] | Old School Roleplay by Pedro		        |
+[19:26:24] | Gamemode loaded successfully.              |
+[19:26:24] ______________________________________________
+[19:26:24] 169 objects loaded.
+[19:26:24] Number of vehicle models: 16
+[19:26:24] [Script] 0 houses loaded.
+[19:26:24] (SQL) 0 furniture loaded.
+[19:26:24] [Script] 0 garages loaded.
+[19:26:24] [Script] 0 businesses loaded.
+[19:26:24] [Script] 0 entrances loaded.
+[19:26:24] [Script] 0 factions loaded.
+[19:26:24] [Script] 0 lands loaded.
+[19:26:24] [Script] 0 gangs loaded.
+[19:26:24] [Script] 0 points loaded.
+[19:26:24] [Script] 0 turfs loaded.
+[19:26:24] [Script] 0 locations loaded
+[19:26:24] [Script] 0 crews loaded
+[19:26:24] [Script] 0 atms loaded
+[19:26:24] [2020-01-09 19:26]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[19:26:24] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:26:24] [Script] 0 vips removed.
+[19:27:26] [connection] 127.0.0.1:50891 requests connection cookie.
+[19:27:26] [connection] incoming connection: 127.0.0.1:50891 id: 0
+[19:27:26] [join] Angelo_Musitano has joined the server (0:127.0.0.1)
+[19:27:27] The request failed! The response code was: 6
+[19:27:45] Spawned player on spawn 2
+[19:27:45] OnPlayerSpawn: Angelo Musitano[0] has just spawned on Old School Roleplay for the first time!
+[19:37:46] [part] Angelo_Musitano has left the server (0:1)
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET camera_x = '1569.866', camera_y = '-2312.57', camera_z = '16.294', pos_x = '1568.513', pos_y = '-2307.576', pos_z = '13.551', pos_a = '337.708', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 9, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 1, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglereports = 0, togglewhisper = 0, togglebug = 0, newbiemutetime = 0, reportmutetime = 0, globalmutetime = 0, adminhide = 0, totalpatients = 0, totalfires = 0, scanneron = 0, rarecooldown = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET weed = 0, cocaine = 0, meth = 0, materials = 0, rope = 0, spraycans = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglevehicle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET gunlicense = 0, housealarm = 0 where uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET chatstyle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET spawntype = 0, spawnhouse = -1 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET camera_x = '1569.866', camera_y = '-2312.57', camera_z = '16.294', pos_x = '1568.513', pos_y = '-2307.576', pos_z = '13.551', pos_a = '337.708', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 9, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 1, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglereports = 0, togglewhisper = 0, togglebug = 0, newbiemutetime = 0, reportmutetime = 0, globalmutetime = 0, adminhide = 0, totalpatients = 0, totalfires = 0, scanneron = 0, rarecooldown = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET weed = 0, cocaine = 0, meth = 0, materials = 0, rope = 0, spraycans = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglevehicle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET gunlicense = 0, housealarm = 0 where uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET chatstyle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET spawntype = 0, spawnhouse = -1 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:46] [2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: DELETE FROM shots WHERE (playerid = 0) OR (hitid = 0 AND hittype = 1)
+Error: Table 'osrp.shots' doesn't exist
+
+
+[19:37:46] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:37:48] [debug] Server received interrupt signal
+[19:37:48] [debug] Native backtrace:
+[19:37:48] [debug] #0 778320bc in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[19:37:48] [debug] #1 7540e82f in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[19:37:48] [debug] #2 0048d53c in ?? () from samp-server.exe
+[19:37:48] [debug] #3 0049b4a1 in ?? () from samp-server.exe
+[19:37:48] [debug] #4 0049b4b1 in ?? () from samp-server.exe
+[19:37:48] --- Server Shutting Down.
+[19:37:48] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[19:37:48] 
+
+[19:37:48]  ===============================
+
+[19:37:48]      sscanf plugin unloaded.    
+
+[19:37:48]  ===============================
+
+[19:37:48] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[19:37:48] plugin.mysql: Unloading plugin...
+[19:37:48] plugin.mysql: Plugin unloaded.
+[19:37:48]  
+[19:37:48]  ====================
+[19:37:48]  
+[19:37:48]   Whirlpool unloaded
+[19:37:48]  
+[19:37:48]  ====================
+[19:37:48]  
+[19:37:48] 
+
+[19:37:48] ______________________________________
+
+[19:37:48]  Regular Expression Plugin v0.2.1 unloaded
+[19:37:48] ______________________________________
+
+[19:37:48] 
+
+[19:37:48]  ==============
+
+[19:37:48]   YSF - kurta999's version R19 unloaded
+
+[19:37:48]  ==============
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:38:51] filterscripts = ""  (string)
+[19:38:51] password = ""  (string)
+[19:38:51] 
+[19:38:51] Server Plugins
+[19:38:51] --------------
+[19:38:51]  Loading plugin: crashdetect
+[19:38:51]   CrashDetect v4.18.1 is OK.
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: pawncmd
+[19:38:51] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: sscanf
+[19:38:51] 
+
+[19:38:51]  ===============================
+
+[19:38:51]       sscanf plugin loaded.     
+
+[19:38:51]          Version:  2.8.2        
+
+[19:38:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:51]  ===============================
+
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: streamer
+[19:38:51] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: mysql
+[19:38:51]  >> plugin.mysql: R39-5 successfully loaded.
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: Whirlpool
+[19:38:51]  
+[19:38:51]  ==================
+[19:38:51]  
+[19:38:51]   Whirlpool loaded
+[19:38:51]  
+[19:38:51]  ==================
+[19:38:51]  
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: SKY
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: regex
+[19:38:51] 
+
+[19:38:51] ______________________________________
+
+[19:38:51]  Regular Expression Plugin v0.2.1 loaded
+[19:38:51] ______________________________________
+
+[19:38:51]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:38:51] ______________________________________
+
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: YSF
+[19:38:51] ARRAY_ConsoleCommands: 4e43d8
+[19:38:51] 
+
+[19:38:51]  ===============================
+
+[19:38:51]         YSF - kurta999's version R19 loaded
+
+[19:38:51]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[19:38:51]     Server version: 0.3.7 R2-1
+
+[19:38:51]     Operating System: Windows
+
+[19:38:51]     Built on: Mar 11 2017 at 10:32:34
+
+[19:38:51]  ===============================
+
+[19:38:51]   Loaded.
+[19:38:51]  Loading plugin: nativechecker
+[19:38:51]   Loaded.
+[19:38:51]  Loaded 10 plugins.
+
+[19:38:51] 
+[19:38:51] Filterscripts
+[19:38:51] ---------------
+[19:38:51]   Loaded 0 filterscripts.
+
+[19:38:51]  
+[19:38:51]  
+[19:38:51]  
+[19:38:51]  ======================================= 
+[19:38:51]  |                                     | 
+[19:38:51]  |        YSI version 4.00.0001        | 
+[19:38:51]  |        By Alex "Y_Less" Cole        | 
+[19:38:51]  |                                     | 
+[19:38:51]  ======================================= 
+[19:38:51]  
+[19:38:53] Old School Roleplay is loading...
+[19:38:53] Saving server information on mysql...
+[19:38:53] Get shit on by Anti-DeAMX
+[19:38:53] LSPD Map has been loaded successfully
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOO??????????????????OOOO????SSSSSS				   
+[19:38:53] OOOO??????????????????OOOO????SSSSSS				   
+[19:38:53] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[19:38:53] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[19:38:53] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:38:53] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:38:53] ______________________________________________
+[19:38:53] | Old School Roleplay by Pedro		        |
+[19:38:53] | Gamemode loaded successfully.              |
+[19:38:53] ______________________________________________
+[19:38:53] 169 objects loaded.
+[19:38:53] Number of vehicle models: 16
+[19:38:53] [Script] 0 houses loaded.
+[19:38:53] (SQL) 0 furniture loaded.
+[19:38:53] [Script] 0 garages loaded.
+[19:38:53] [Script] 0 businesses loaded.
+[19:38:53] [Script] 0 entrances loaded.
+[19:38:53] [Script] 0 factions loaded.
+[19:38:53] [Script] 0 lands loaded.
+[19:38:53] [Script] 0 gangs loaded.
+[19:38:53] [Script] 0 points loaded.
+[19:38:53] [Script] 0 turfs loaded.
+[19:38:53] [Script] 0 locations loaded
+[19:38:53] [Script] 0 crews loaded
+[19:38:53] [Script] 0 atms loaded
+[19:38:53] [2020-01-09 19:38]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+
+[19:38:53] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[19:38:53] [Script] 0 vips removed.
+[19:39:52] [debug] Server received interrupt signal
+[19:39:52] [debug] Native backtrace:
+[19:39:52] [debug] #0 778320bc in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[19:39:52] [debug] #1 7540e82f in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[19:39:52] [debug] #2 0048d53c in ?? () from samp-server.exe
+[19:39:52] [debug] #3 0049b4a1 in ?? () from samp-server.exe
+[19:39:52] [debug] #4 0049b4b1 in ?? () from samp-server.exe
+[19:39:52] --- Server Shutting Down.
+[19:39:52] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[19:39:52] 
+
+[19:39:52]  ===============================
+
+[19:39:52]      sscanf plugin unloaded.    
+
+[19:39:52]  ===============================
+
+[19:39:52] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[19:39:52] plugin.mysql: Unloading plugin...
+[19:39:52] plugin.mysql: Plugin unloaded.
+[19:39:52]  
+[19:39:52]  ====================
+[19:39:52]  
+[19:39:52]   Whirlpool unloaded
+[19:39:52]  
+[19:39:52]  ====================
+[19:39:52]  
+[19:39:52] 
+
+[19:39:52] ______________________________________
+
+[19:39:52]  Regular Expression Plugin v0.2.1 unloaded
+[19:39:52] ______________________________________
+
+[19:39:52] 
+
+[19:39:52]  ==============
+
+[19:39:52]   YSF - kurta999's version R19 unloaded
+
+[19:39:52]  ==============
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:55] filterscripts = ""  (string)
+[19:39:55] password = ""  (string)
+[19:39:55] 
+[19:39:55] Server Plugins
+[19:39:55] --------------
+[19:39:55]  Loading plugin: crashdetect
+[19:39:55]   CrashDetect v4.18.1 is OK.
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: pawncmd
+[19:39:55] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: sscanf
+[19:39:55] 
+
+[19:39:55]  ===============================
+
+[19:39:55]       sscanf plugin loaded.     
+
+[19:39:55]          Version:  2.8.2        
+
+[19:39:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:39:55]  ===============================
+
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: streamer
+[19:39:55] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: mysql
+[19:39:55]  >> plugin.mysql: R39-5 successfully loaded.
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: Whirlpool
+[19:39:55]  
+[19:39:55]  ==================
+[19:39:55]  
+[19:39:55]   Whirlpool loaded
+[19:39:55]  
+[19:39:55]  ==================
+[19:39:55]  
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: SKY
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: regex
+[19:39:55] 
+
+[19:39:55] ______________________________________
+
+[19:39:55]  Regular Expression Plugin v0.2.1 loaded
+[19:39:55] ______________________________________
+
+[19:39:55]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:39:55] ______________________________________
+
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: YSF
+[19:39:55] ARRAY_ConsoleCommands: 4e43d8
+[19:39:55] 
+
+[19:39:55]  ===============================
+
+[19:39:55]         YSF - kurta999's version R19 loaded
+
+[19:39:55]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[19:39:55]     Server version: 0.3.7 R2-1
+
+[19:39:55]     Operating System: Windows
+
+[19:39:55]     Built on: Mar 11 2017 at 10:32:34
+
+[19:39:55]  ===============================
+
+[19:39:55]   Loaded.
+[19:39:55]  Loading plugin: nativechecker
+[19:39:55]   Loaded.
+[19:39:55]  Loaded 10 plugins.
+
+[19:39:55] 
+[19:39:55] Filterscripts
+[19:39:55] ---------------
+[19:39:55]   Loaded 0 filterscripts.
+
+[19:39:55]  
+[19:39:55]  
+[19:39:55]  
+[19:39:55]  ======================================= 
+[19:39:55]  |                                     | 
+[19:39:55]  |        YSI version 4.00.0001        | 
+[19:39:55]  |        By Alex "Y_Less" Cole        | 
+[19:39:55]  |                                     | 
+[19:39:55]  ======================================= 
+[19:39:55]  
+[19:39:57] Old School Roleplay is loading...
+[19:39:57] Saving server information on mysql...
+[19:39:57] Get shit on by Anti-DeAMX
+[19:39:57] LSPD Map has been loaded successfully
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOO??????????????????OOOO????SSSSSS				   
+[19:39:57] OOOO??????????????????OOOO????SSSSSS				   
+[19:39:57] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[19:39:57] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[19:39:57] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:39:57] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:39:57] ______________________________________________
+[19:39:57] | Old School Roleplay by Pedro		        |
+[19:39:57] | Gamemode loaded successfully.              |
+[19:39:57] ______________________________________________
+[19:39:57] 169 objects loaded.
+[19:39:57] Number of vehicle models: 16
+[19:39:57] [Script] 0 houses loaded.
+[19:39:57] (SQL) 0 furniture loaded.
+[19:39:57] [Script] 0 garages loaded.
+[19:39:57] [Script] 0 businesses loaded.
+[19:39:57] [Script] 0 entrances loaded.
+[19:39:57] [Script] 0 factions loaded.
+[19:39:57] [Script] 0 lands loaded.
+[19:39:57] [Script] 0 gangs loaded.
+[19:39:57] [Script] 0 points loaded.
+[19:39:57] [Script] 0 turfs loaded.
+[19:39:57] [Script] 0 locations loaded
+[19:39:57] [Script] 0 crews loaded
+[19:39:57] [Script] 0 atms loaded
+[19:39:57] [Script] 0 vips removed.
+[19:45:01] [debug] Server received interrupt signal
+[19:45:01] [debug] Native backtrace:
+[19:45:01] [debug] #0 778320bc in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[19:45:01] [debug] #1 7540e82f in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[19:45:01] [debug] #2 0048d53c in ?? () from samp-server.exe
+[19:45:01] [debug] #3 0049b4a1 in ?? () from samp-server.exe
+[19:45:01] [debug] #4 0049b4b1 in ?? () from samp-server.exe
+[19:45:01] --- Server Shutting Down.
+[19:45:01] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[19:45:01] 
+
+[19:45:01]  ===============================
+
+[19:45:01]      sscanf plugin unloaded.    
+
+[19:45:01]  ===============================
+
+[19:45:01] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[19:45:01] plugin.mysql: Unloading plugin...
+[19:45:01] plugin.mysql: Plugin unloaded.
+[19:45:01]  
+[19:45:01]  ====================
+[19:45:01]  
+[19:45:01]   Whirlpool unloaded
+[19:45:01]  
+[19:45:01]  ====================
+[19:45:01]  
+[19:45:01] 
+
+[19:45:01] ______________________________________
+
+[19:45:01]  Regular Expression Plugin v0.2.1 unloaded
+[19:45:01] ______________________________________
+
+[19:45:01] 
+
+[19:45:01]  ==============
+
+[19:45:01]   YSF - kurta999's version R19 unloaded
+
+[19:45:01]  ==============
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:05] filterscripts = ""  (string)
+[19:45:05] password = ""  (string)
+[19:45:05] 
+[19:45:05] Server Plugins
+[19:45:05] --------------
+[19:45:05]  Loading plugin: crashdetect
+[19:45:05]   CrashDetect v4.18.1 is OK.
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: pawncmd
+[19:45:05] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: sscanf
+[19:45:05] 
+
+[19:45:05]  ===============================
+
+[19:45:05]       sscanf plugin loaded.     
+
+[19:45:05]          Version:  2.8.2        
+
+[19:45:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:45:05]  ===============================
+
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: streamer
+[19:45:05] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: mysql
+[19:45:05]  >> plugin.mysql: R39-5 successfully loaded.
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: Whirlpool
+[19:45:05]  
+[19:45:05]  ==================
+[19:45:05]  
+[19:45:05]   Whirlpool loaded
+[19:45:05]  
+[19:45:05]  ==================
+[19:45:05]  
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: SKY
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: regex
+[19:45:05] 
+
+[19:45:05] ______________________________________
+
+[19:45:05]  Regular Expression Plugin v0.2.1 loaded
+[19:45:05] ______________________________________
+
+[19:45:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:45:05] ______________________________________
+
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: YSF
+[19:45:05] ARRAY_ConsoleCommands: 4e43d8
+[19:45:05] 
+
+[19:45:05]  ===============================
+
+[19:45:05]         YSF - kurta999's version R19 loaded
+
+[19:45:05]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[19:45:05]     Server version: 0.3.7 R2-1
+
+[19:45:05]     Operating System: Windows
+
+[19:45:05]     Built on: Mar 11 2017 at 10:32:34
+
+[19:45:05]  ===============================
+
+[19:45:05]   Loaded.
+[19:45:05]  Loading plugin: nativechecker
+[19:45:05]   Loaded.
+[19:45:05]  Loaded 10 plugins.
+
+[19:45:05] 
+[19:45:05] Filterscripts
+[19:45:05] ---------------
+[19:45:05]   Loaded 0 filterscripts.
+
+[19:45:05]  
+[19:45:05]  
+[19:45:05]  
+[19:45:05]  ======================================= 
+[19:45:05]  |                                     | 
+[19:45:05]  |        YSI version 4.00.0001        | 
+[19:45:05]  |        By Alex "Y_Less" Cole        | 
+[19:45:05]  |                                     | 
+[19:45:05]  ======================================= 
+[19:45:05]  
+[19:45:07] Old School Roleplay is loading...
+[19:45:07] Saving server information on mysql...
+[19:45:07] Get shit on by Anti-DeAMX
+[19:45:07] LSPD Map has been loaded successfully
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOO??????????????????OOOO????SSSSSS				   
+[19:45:07] OOOO??????????????????OOOO????SSSSSS				   
+[19:45:07] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[19:45:07] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[19:45:07] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:45:07] OOOO??????????????????OOOO????????????????????SSSSSS
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[19:45:07] ______________________________________________
+[19:45:07] | Old School Roleplay by REFUZiON	        |
+[19:45:07] | Gamemode loaded successfully.              |
+[19:45:07] ______________________________________________
+[19:45:07] 169 objects loaded.
+[19:45:07] Number of vehicle models: 16
+[19:45:07] [Script] 0 houses loaded.
+[19:45:07] (SQL) 0 furniture loaded.
+[19:45:07] [Script] 0 garages loaded.
+[19:45:07] [Script] 0 businesses loaded.
+[19:45:07] [Script] 0 entrances loaded.
+[19:45:07] [Script] 0 factions loaded.
+[19:45:07] [Script] 0 lands loaded.
+[19:45:07] [Script] 0 gangs loaded.
+[19:45:07] [Script] 0 points loaded.
+[19:45:07] [Script] 0 turfs loaded.
+[19:45:07] [Script] 0 locations loaded
+[19:45:07] [Script] 0 crews loaded
+[19:45:07] [Script] 0 atms loaded
+[19:45:07] [Script] 0 vips removed.
+[20:09:11] [debug] Server received interrupt signal
+[20:09:11] [debug] Native backtrace:
+[20:09:11] [debug] #0 778320bc in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[20:09:11] [debug] #1 7540e82f in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[20:09:11] [debug] #2 0048d53c in ?? () from samp-server.exe
+[20:09:11] [debug] #3 0049b4a1 in ?? () from samp-server.exe
+[20:09:11] [debug] #4 0049b4b1 in ?? () from samp-server.exe
+[20:09:11] --- Server Shutting Down.
+[20:09:11] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[20:09:11] 
+
+[20:09:11]  ===============================
+
+[20:09:11]      sscanf plugin unloaded.    
+
+[20:09:11]  ===============================
+
+[20:09:11] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[20:09:11] plugin.mysql: Unloading plugin...
+[20:09:11] plugin.mysql: Plugin unloaded.
+[20:09:11]  
+[20:09:11]  ====================
+[20:09:11]  
+[20:09:11]   Whirlpool unloaded
+[20:09:11]  
+[20:09:11]  ====================
+[20:09:11]  
+[20:09:11] 
+
+[20:09:11] ______________________________________
+
+[20:09:11]  Regular Expression Plugin v0.2.1 unloaded
+[20:09:11] ______________________________________
+
+[20:09:12] 
+
+[20:09:12]  ==============
+
+[20:09:12]   YSF - kurta999's version R19 unloaded
+
+[20:09:12]  ==============
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:44:12] filterscripts = ""  (string)
+[04:44:12] password = ""  (string)
+[04:44:12] 
+[04:44:12] Server Plugins
+[04:44:12] --------------
+[04:44:12]  Loading plugin: crashdetect
+[04:44:12]   CrashDetect v4.18.1 is OK.
+[04:44:12]   Loaded.
+[04:44:12]  Loading plugin: pawncmd
+[04:44:12] Pawn.CMD plugin v3.1.3 by urShadow loaded
+[04:44:12]   Loaded.
+[04:44:12]  Loading plugin: sscanf
+[04:44:12] 
+
+[04:44:12]  ===============================
+
+[04:44:12]       sscanf plugin loaded.     
+
+[04:44:12]          Version:  2.8.2        
+
+[04:44:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:44:12]  ===============================
+
+[04:44:12]   Loaded.
+[04:44:12]  Loading plugin: streamer
+[04:44:13] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[04:44:13]   Loaded.
+[04:44:13]  Loading plugin: mysql
+[04:44:13]  >> plugin.mysql: R39-5 successfully loaded.
+[04:44:13]   Loaded.
+[04:44:13]  Loading plugin: Whirlpool
+[04:44:13]  
+[04:44:13]  ==================
+[04:44:13]  
+[04:44:13]   Whirlpool loaded
+[04:44:13]  
+[04:44:13]  ==================
+[04:44:13]  
+[04:44:13]   Loaded.
+[04:44:13]  Loading plugin: SKY
+[04:44:13]   Loaded.
+[04:44:13]  Loading plugin: regex
+[04:44:14] 
+
+[04:44:14] ______________________________________
+
+[04:44:14]  Regular Expression Plugin v0.2.1 loaded
+[04:44:14] ______________________________________
+
+[04:44:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[04:44:14] ______________________________________
+
+[04:44:14]   Loaded.
+[04:44:14]  Loading plugin: YSF
+[04:44:14] ARRAY_ConsoleCommands: 4e43d8
+[04:44:14] 
+
+[04:44:14]  ===============================
+
+[04:44:14]         YSF - kurta999's version R19 loaded
+
+[04:44:14]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+
+[04:44:14]     Server version: 0.3.7 R2-1
+
+[04:44:14]     Operating System: Windows
+
+[04:44:14]     Built on: Mar 11 2017 at 10:32:34
+
+[04:44:14]  ===============================
+
+[04:44:14]   Loaded.
+[04:44:14]  Loading plugin: nativechecker
+[04:44:14]   Loaded.
+[04:44:14]  Loaded 10 plugins.
+
+[04:44:15] 
+[04:44:15] Filterscripts
+[04:44:15] ---------------
+[04:44:15]   Loaded 0 filterscripts.
+
+[04:44:15]  
+[04:44:15]  
+[04:44:15]  
+[04:44:15]  ======================================= 
+[04:44:15]  |                                     | 
+[04:44:15]  |        YSI version 4.00.0001        | 
+[04:44:15]  |        By Alex "Y_Less" Cole        | 
+[04:44:15]  |                                     | 
+[04:44:15]  ======================================= 
+[04:44:15]  
+[04:44:16] Old School Roleplay is loading...
+[04:44:16] Saving server information on mysql...
+[04:44:16] Get shit on by Anti-DeAMX
+[04:44:16] LSPD Map has been loaded successfully
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOO??????????????????OOOO????SSSSSS				   
+[04:44:16] OOOO??????????????????OOOO????SSSSSS				   
+[04:44:16] OOOO????ooooooooo?????OOOO????SSSSSS				   
+[04:44:16] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOO????o?????? o?????OOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOO????ooooooooo?????OOOO????????????????????SSSSSS
+[04:44:16] OOOO??????????????????OOOO????????????????????SSSSSS
+[04:44:16] OOOO??????????????????OOOO????????????????????SSSSSS
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] OOOOOOOOOOOOOOOOOOOOOOOOOO????SSSSSSSSSSSSSSSSSSSSSS
+[04:44:16] ______________________________________________
+[04:44:16] | Old School Roleplay by REFUZiON	        |
+[04:44:16] | Gamemode loaded successfully.              |
+[04:44:16] ______________________________________________
+[04:44:16] 169 objects loaded.
+[04:44:16] Number of vehicle models: 16
+[04:44:17] [Script] 0 houses loaded.
+[04:44:17] (SQL) 0 furniture loaded.
+[04:44:17] [Script] 0 garages loaded.
+[04:44:17] [Script] 0 businesses loaded.
+[04:44:17] [Script] 0 entrances loaded.
+[04:44:17] [Script] 0 factions loaded.
+[04:44:17] [Script] 0 lands loaded.
+[04:44:17] [Script] 0 gangs loaded.
+[04:44:17] [Script] 0 points loaded.
+[04:44:17] [Script] 0 turfs loaded.
+[04:44:17] [Script] 0 locations loaded
+[04:44:17] [Script] 0 crews loaded
+[04:44:17] [Script] 0 atms loaded
+[04:44:17] [Script] 0 vips removed.
+[04:49:42] [connection] 127.0.0.1:60972 requests connection cookie.
+[04:49:42] [connection] incoming connection: 127.0.0.1:60972 id: 0
+[04:49:42] [join] Angelo_Musitano has joined the server (0:127.0.0.1)
+[04:49:42] The request failed! The response code was: 6
+[04:49:57] Spawned player on spawn 2
+[04:49:57] OnPlayerSpawn: Angelo Musitano[0] has just spawned on Old School Roleplay for the first time!
+[04:50:00] [zcmd] [Angelo_Musitano]:aduty 
+[04:50:01] [part] Angelo_Musitano has left the server (0:1)
+Console input: makeadmin
+Console input: makeadmin 0
+[04:51:19] [connection] 127.0.0.1:52059 requests connection cookie.
+[04:51:19] [connection] incoming connection: 127.0.0.1:52059 id: 0
+[04:51:20] [join] Angelo_Musitano has joined the server (0:127.0.0.1)
+[04:51:20] The request failed! The response code was: 6
+[04:51:33] [zcmd] [Angelo_Musitano]:givegun 
+[04:51:35] [zcmd] [Angelo_Musitano]:givegun Angelo 24
+[04:51:38] [zcmd] [Angelo_Musitano]:setstat 
+[04:51:39] [zcmd] [Angelo_Musitano]:a .
+[04:51:41] [zcmd] [Angelo_Musitano]:setstaff ange
+[04:51:51] [part] Angelo_Musitano has left the server (0:1)
+[04:52:42] [connection] 127.0.0.1:58353 requests connection cookie.
+[04:52:42] [connection] incoming connection: 127.0.0.1:58353 id: 0
+[04:52:42] [join] Angelo_Musitano has joined the server (0:127.0.0.1)
+[04:52:43] The request failed! The response code was: 6
+[04:52:51] [zcmd] [Angelo_Musitano]:setstaff 
+[04:53:01] [zcmd] [Angelo_Musitano]:setstaff angelo dynamicadmin
+[04:53:02] [zcmd] [Angelo_Musitano]:setstaff angelo dynamicadmin 1
+[04:53:02] AdmCmd: Angelo Musitano has made Angelo Musitano a dynamic admin.
+[04:53:07] [zcmd] [Angelo_Musitano]:setstats Angelo hours 6666
+[04:53:11] [zcmd] [Angelo_Musitano]:setstat Angelo hours 666
+[04:53:11] AdmCmd: Angelo_Musitano set Angelo_Musitano's hours to 666
+[04:53:13] [zcmd] [Angelo_Musitano]:givegun Ange 24
+[04:53:13] AdmCmd: Angelo Musitano has given a Desert Eagle to Angelo Musitano.
+[04:53:15] [zcmd] [Angelo_Musitano]:givegun Ange 25
+[04:53:15] AdmCmd: Angelo Musitano has given a Shotgun to Angelo Musitano.
+[04:53:16] [zcmd] [Angelo_Musitano]:givegun Ange 24
+[04:53:16] AdmCmd: Angelo Musitano has given a Desert Eagle to Angelo Musitano.
+[04:53:17] [zcmd] [Angelo_Musitano]:givegun Ange 21
+[04:53:17] AdmCmd: Angelo Musitano has given a Jetpack to Angelo Musitano.
+[04:53:18] [zcmd] [Angelo_Musitano]:givegun Ange 27
+[04:53:18] AdmCmd: Angelo Musitano has given a Combat Shotgun to Angelo Musitano.
+[04:53:19] [zcmd] [Angelo_Musitano]:givegun Ange 29
+[04:53:19] AdmCmd: Angelo Musitano has given a MP5 to Angelo Musitano.
+[04:53:20] [zcmd] [Angelo_Musitano]:givegun Ange 25
+[04:53:20] AdmCmd: Angelo Musitano has given a Shotgun to Angelo Musitano.
+[04:53:21] [zcmd] [Angelo_Musitano]:givegun Ange 26
+[04:53:21] AdmCmd: Angelo Musitano has given a Sawn-off Shotgun to Angelo Musitano.
+[04:53:22] [zcmd] [Angelo_Musitano]:givegun Ange 20
+[04:53:22] AdmCmd: Angelo Musitano has given a Hydra Flare to Angelo Musitano.
+[04:53:23] [zcmd] [Angelo_Musitano]:givegun Ange 35
+[04:53:23] AdmCmd: Angelo Musitano has given a Rocket Launcher to Angelo Musitano.
+[04:53:24] [zcmd] [Angelo_Musitano]:givegun Ange 34
+[04:53:24] AdmCmd: Angelo Musitano has given a Sniper Rifle to Angelo Musitano.
+[04:53:25] [zcmd] [Angelo_Musitano]:givegun Ange 32
+[04:53:25] AdmCmd: Angelo Musitano has given a TEC9 to Angelo Musitano.
+[04:53:26] [zcmd] [Angelo_Musitano]:givegun Ange 31
+[04:53:26] AdmCmd: Angelo Musitano has given a M4 to Angelo Musitano.
+[04:53:27] [zcmd] [Angelo_Musitano]:givegun Ange 37
+[04:53:27] AdmCmd: Angelo Musitano has given a Flamethrower to Angelo Musitano.
+[04:53:28] [zcmd] [Angelo_Musitano]:givegun Ange 36
+[04:53:28] AdmCmd: Angelo Musitano has given a Heat Seaker to Angelo Musitano.
+[04:53:29] [zcmd] [Angelo_Musitano]:givegun Ange 39
+[04:53:29] AdmCmd: Angelo Musitano has given a Satchel Explosives to Angelo Musitano.
+[04:53:30] [zcmd] [Angelo_Musitano]:givegun Ange 38
+[04:53:30] AdmCmd: Angelo Musitano has given a Minigun to Angelo Musitano.
+[04:53:30] [zcmd] [Angelo_Musitano]:givegun Ange 37
+[04:53:30] AdmCmd: Angelo Musitano has given a Flamethrower to Angelo Musitano.
+[04:53:32] [zcmd] [Angelo_Musitano]:givegun Ange 36
+[04:53:32] AdmCmd: Angelo Musitano has given a Heat Seaker to Angelo Musitano.
+[04:53:33] [zcmd] [Angelo_Musitano]:givegun Ange 364
+[04:53:35] [zcmd] [Angelo_Musitano]:givegun Ange 34
+[04:53:35] AdmCmd: Angelo Musitano has given a Sniper Rifle to Angelo Musitano.
+[04:53:36] [zcmd] [Angelo_Musitano]:givegun Ange 40
+[04:53:36] AdmCmd: Angelo Musitano has given a Bomb to Angelo Musitano.
+[04:53:37] [zcmd] [Angelo_Musitano]:givegun Ange 41
+[04:53:37] AdmCmd: Angelo Musitano has given a Spray Can to Angelo Musitano.
+[04:53:38] [zcmd] [Angelo_Musitano]:givegun Ange 42
+[04:53:38] AdmCmd: Angelo Musitano has given a Fire Extinguisher to Angelo Musitano.
+[04:53:39] [zcmd] [Angelo_Musitano]:givegun Ange 43
+[04:53:39] AdmCmd: Angelo Musitano has given a Camera to Angelo Musitano.
+[04:53:40] [zcmd] [Angelo_Musitano]:givegun Ange 32
+[04:53:40] AdmCmd: Angelo Musitano has given a TEC9 to Angelo Musitano.
+[04:53:41] [zcmd] [Angelo_Musitano]:givegun Ange 31
+[04:53:41] AdmCmd: Angelo Musitano has given a M4 to Angelo Musitano.
+[04:53:42] [zcmd] [Angelo_Musitano]:givegun Ange 1
+[04:53:42] AdmCmd: Angelo Musitano has given a Brass Knuckles to Angelo Musitano.
+[04:53:43] [zcmd] [Angelo_Musitano]:givegun Ange 2
+[04:53:43] AdmCmd: Angelo Musitano has given a Golf Club to Angelo Musitano.
+[04:53:45] [zcmd] [Angelo_Musitano]:givegun Ange 5
+[04:53:45] AdmCmd: Angelo Musitano has given a Baseball Bat to Angelo Musitano.
+[04:53:46] [zcmd] [Angelo_Musitano]:givegun Ange 3
+[04:53:46] AdmCmd: Angelo Musitano has given a Nite Stick to Angelo Musitano.
+[04:53:47] [zcmd] [Angelo_Musitano]:givegun Ange 2
+[04:53:47] AdmCmd: Angelo Musitano has given a Golf Club to Angelo Musitano.
+[04:53:48] [zcmd] [Angelo_Musitano]:givegun Ange 6
+[04:53:48] AdmCmd: Angelo Musitano has given a Shovel to Angelo Musitano.
+[04:53:49] [zcmd] [Angelo_Musitano]:givegun Ange 8
+[04:53:49] AdmCmd: Angelo Musitano has given a Katana to Angelo Musitano.
+[04:53:50] [zcmd] [Angelo_Musitano]:givegun Ange 4
+[04:53:50] AdmCmd: Angelo Musitano has given a Knife to Angelo Musitano.
+[04:53:52] [zcmd] [Angelo_Musitano]:givegun Ange 7
+[04:53:52] AdmCmd: Angelo Musitano has given a Pool Cue to Angelo Musitano.
+[04:53:53] [zcmd] [Angelo_Musitano]:givegun Ange 9
+[04:53:53] AdmCmd: Angelo Musitano has given a Chainsaw to Angelo Musitano.
+[04:53:55] [zcmd] [Angelo_Musitano]:givegun Ange 3
+[04:53:55] AdmCmd: Angelo Musitano has given a Nite Stick to Angelo Musitano.
+[04:54:10] [part] Angelo_Musitano has left the server (0:1)
+[05:11:28] [debug] Server received interrupt signal
+[05:11:28] [debug] Native backtrace:
+[05:11:28] [debug] #0 76f520bc in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[05:11:28] [debug] #1 74fde82f in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[05:11:28] [debug] #2 0048d53c in ?? () from samp-server.exe
+[05:11:28] --- Server Shutting Down.
+[05:11:28] Pawn.CMD plugin v3.1.3 by urShadow unloaded
+[05:11:28] 
+
+[05:11:28]  ===============================
+
+[05:11:28]      sscanf plugin unloaded.    
+
+[05:11:28]  ===============================
+
+[05:11:28] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[05:11:28] plugin.mysql: Unloading plugin...
+[05:11:28] plugin.mysql: Plugin unloaded.
+[05:11:28]  
+[05:11:28]  ====================
+[05:11:28]  
+[05:11:28]   Whirlpool unloaded
+[05:11:28]  
+[05:11:28]  ====================
+[05:11:28]  
+[05:11:28] 
+
+[05:11:28] ______________________________________
+
+[05:11:28]  Regular Expression Plugin v0.2.1 unloaded
+[05:11:28] ______________________________________
+
+[05:11:28] 
+
+[05:11:28]  ==============
+
+[05:11:28]   YSF - kurta999's version R19 unloaded
+
+[05:11:28]  ==============

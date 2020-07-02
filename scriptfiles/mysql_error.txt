@@ -1,0 +1,228 @@
+[2019-04-25 13:44]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 13:48]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 13:54]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 13:58]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 14:07]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 14:41]
+Error ID: 1054
+Callback: 
+Query: UPDATE `users` SET addeddate = '2019-04-25 14:41' WHERE uid = 2
+Error: Unknown column 'addeddate' in 'field list'
+
+[2019-04-25 14:43]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 20:14]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2019-04-25 20:30]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+[2019-04-25 20:30]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+[2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET camera_x = '1482.412', camera_y = '-2252.56', camera_z = '14.474', pos_x = '1485.405', pos_y = '-2249.791', pos_z = '13.547', pos_a = '132.772', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 27, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+[2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+[2019-04-25 20:31]
+Error ID: 2003
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 0, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 2
+Error: Can't connect to MySQL server on 'localhost' (10061)
+
+[2020-01-09 19:26]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET camera_x = '1569.866', camera_y = '-2312.57', camera_z = '16.294', pos_x = '1568.513', pos_y = '-2307.576', pos_z = '13.551', pos_a = '337.708', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 9, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 1, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglereports = 0, togglewhisper = 0, togglebug = 0, newbiemutetime = 0, reportmutetime = 0, globalmutetime = 0, adminhide = 0, totalpatients = 0, totalfires = 0, scanneron = 0, rarecooldown = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET weed = 0, cocaine = 0, meth = 0, materials = 0, rope = 0, spraycans = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglevehicle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET gunlicense = 0, housealarm = 0 where uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET chatstyle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET spawntype = 0, spawnhouse = -1 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET 																					`weapon_0` = 0, 																					`weapon_1` = 0, 																					`weapon_2` = 0, 																					`weapon_3` = 0, 																					`weapon_4` = 0, 																					`weapon_5` = 0, 																					`weapon_6` = 0, 																					`weapon_7` = 0, 																					`weapon_8` = 0, 																					`weapon_9` = 0, 																					`weapon_10` = 0, 																					`weapon_11` = 0, 																					`weapon_12` = 0 																					WHERE `uid` = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET ammo_0 = 0, ammo_1 = 0, ammo_2 = 0, ammo_3 = 0, ammo_4 = 0, ammo_5 = 0, ammo_6 = 0, ammo_7 = 0, ammo_8 = 0, ammo_9 = 0, ammo_10 = 0, ammo_11 = 0, ammo_12 = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET camera_x = '1569.866', camera_y = '-2312.57', camera_z = '16.294', pos_x = '1568.513', pos_y = '-2307.576', pos_z = '13.551', pos_a = '337.708', interior = 0, world = 0, health = '100.0', armor = '0.0', minutes = 9, warnings = 0, injured = 0, hospital = 0, upgradepoints = 0, spawnhealth = '50.0', spawnarmor = '0.0', jailtype = 0, jailtime = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET newbiemuted = 0, helpmuted = 0, admuted = 0, livemuted = 0, globalmuted = 0, reportmuted = 0, reportwarns = 0, fightstyle = 4, cookies = 0, toggletextdraws = 0, toggleooc = 0, togglephone = 0, toggleadmin = 0, togglehelper = 0, togglenewbie = 0, togglewt = 0, togglevip = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET toggleradio = 0,		togglepoint = 0, toggleturfs = 0, togglepm = 0, togglemusic = 0, togglefaction = 0, togglenews = 0,	    toggleglobal = 1, togglecam = 0, togglehud = 1, weedtime = 0, weedgrams = 0, showturfs = 0, showlands = 0, 		watchon = 0, gpson = 0, couriercooldown = 0, pizzacooldown = 0, detectivecooldown = 0, thiefcooldown = 0, 		crackcooldown = 0, duty = 0, bandana = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglereports = 0, togglewhisper = 0, togglebug = 0, newbiemutetime = 0, reportmutetime = 0, globalmutetime = 0, adminhide = 0, totalpatients = 0, totalfires = 0, scanneron = 0, rarecooldown = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET weed = 0, cocaine = 0, meth = 0, materials = 0, rope = 0, spraycans = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET togglevehicle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET gunlicense = 0, housealarm = 0 where uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET chatstyle = 0 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: UPDATE `users` SET spawntype = 0, spawnhouse = -1 WHERE uid = 1
+Error: Table 'osrp.users' doesn't exist
+
+[2020-01-09 19:37]
+Error ID: 1146
+Callback: 
+Query: DELETE FROM shots WHERE (playerid = 0) OR (hitid = 0 AND hittype = 1)
+Error: Table 'osrp.shots' doesn't exist
+
+[2020-01-09 19:38]
+Error ID: 1146
+Callback: Impound_Load
+Query: SELECT * FROM `impoundlots`
+Error: Table 'osrp.impoundlots' doesn't exist
+
